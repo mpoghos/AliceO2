@@ -1,0 +1,9 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/compression/include/TOFCompression/RawDataFrame.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/compression/include/TOFCompression/RawDataFrame.h">
+<area shape="rect" id="node2" href="$d2/dc6/CompressorTask_8h.html" title="TOF raw data compressor task. " alt="" coords="57,124,327,209"/>
+<area shape="rect" id="node5" href="$de/df6/RawReaderTask_8h.html" title="TOF raw reader task. " alt="" coords="351,124,615,209"/>
+<area shape="rect" id="node7" href="$da/dc7/CompressedInspectorTask_8cxx.html" title="TOF compressed data inspector task. " alt="" coords="639,131,886,202"/>
+<area shape="rect" id="node8" href="$dd/d65/CompressedWriterTask_8cxx.html" title="TOF compressed data writer task. " alt="" coords="910,131,1135,202"/>
+<area shape="rect" id="node3" href="$d7/d8c/CompressorTask_8cxx.html" title="TOF raw data compressor task. " alt="" coords="5,257,211,328"/>
+<area shape="rect" id="node4" href="$d9/d2d/tof-compressor_8cxx.html" title="Basic DPL workflow for TOF raw data compression. " alt="" coords="235,257,440,328"/>
+<area shape="rect" id="node6" href="$d7/d5e/RawReaderTask_8cxx.html" title="TOF raw reader task. " alt="" coords="464,257,669,328"/>
+</map>

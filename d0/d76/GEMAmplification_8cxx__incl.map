@@ -1,0 +1,31 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/src/GEMAmplification.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/src/GEMAmplification.cxx">
+<area shape="rect" id="node2" href="$d9/d79/GEMAmplification_8h.html" title="Definition of the GEM amplification. " alt="" coords="991,124,1239,151"/>
+<area shape="rect" id="node58" href="$d8/d74/CachingTF1_8h.html" title="MathUtils/CachingTF1.h" alt="" coords="751,124,925,151"/>
+<area shape="rect" id="node59" href="$dc/df2/CDBInterface_8h.html" title="Simple interface to the CDB manager. " alt="" coords="2165,124,2346,151"/>
+<area shape="rect" id="node3" href="$db/dac/RandomRing_8h.html" title="MathUtils/RandomRing.h" alt="" coords="864,199,1047,225"/>
+<area shape="rect" id="node9" href="$db/d5b/ParameterGas_8h.html" title="Definition of the parameter class for the detector gas. " alt="" coords="303,199,490,225"/>
+<area shape="rect" id="node21" href="$de/d2b/ParameterGEM_8h.html" title="Definition of the parameter class for the GEM stack. " alt="" coords="515,199,705,225"/>
+<area shape="rect" id="node23" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="1138,527,1261,553"/>
+<area shape="rect" id="node40" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="1707,601,1849,628"/>
+<area shape="rect" id="node41" href="$d6/d2b/TPC_2base_2include_2TPCBase_2CalDet_8h.html" title="TPCBase/CalDet.h" alt="" coords="1637,199,1775,225"/>
+<area shape="rect" id="node10" href="$db/d2c/ConfigurableParam_8h.html" title="SimConfig/ConfigurableParam.h" alt="" coords="249,363,475,389"/>
+<area shape="rect" id="node17" href="$da/d6b/ConfigurableParamHelper_8h.html" title="SimConfig/ConfigurableParam\lHelper.h" alt="" coords="144,273,359,315"/>
+<area shape="rect" id="node24" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="1381,751,1559,777"/>
+<area shape="rect" id="node37" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="1928,676,2063,703"/>
+<area shape="rect" id="node39" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="1310,601,1433,628"/>
+<area shape="rect" id="node25" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1928,907,2108,934"/>
+<area shape="rect" id="node28" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1413,825,1593,852"/>
+<area shape="rect" id="node38" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="1889,751,2101,777"/>
+<area shape="rect" id="node48" href="$d5/d1d/TPC_2base_2include_2TPCBase_2Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="1540,363,1683,389"/>
+<area shape="rect" id="node55" href="$db/d9b/CalArray_8h.html" title="TPCBase/CalArray.h" alt="" coords="1535,281,1685,307"/>
+<area shape="rect" id="node49" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="1924,527,2088,553"/>
+<area shape="rect" id="node50" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="1336,527,1505,553"/>
+<area shape="rect" id="node51" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="1819,445,1969,471"/>
+<area shape="rect" id="node52" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="2223,676,2367,703"/>
+<area shape="rect" id="node53" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="1558,445,1745,471"/>
+<area shape="rect" id="node54" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="2044,445,2219,471"/>
+<area shape="rect" id="node60" href="$d4/dd1/IdPath_8h.html" title="CCDB/IdPath.h" alt="" coords="2899,281,3014,307"/>
+<area shape="rect" id="node63" href="$d5/df3/BasicCCDBManager_8h.html" title="CCDB/BasicCCDBManager.h" alt="" coords="2375,199,2578,225"/>
+<area shape="rect" id="node64" href="$dd/d3e/CcdbApi_8h.html" title="CCDB/CcdbApi.h" alt="" coords="2661,281,2789,307"/>
+<area shape="rect" id="node67" href="$da/d86/CCDBTimeStampUtils_8h.html" title="CCDB/CCDBTimeStampUtils.h" alt="" coords="2368,281,2585,307"/>
+</map>

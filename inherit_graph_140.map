@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dc/d5e/classGPUCA__NAMESPACE_1_1gpu_1_1FlatObject.html" title="GPUCA_GPUCODE. " alt="" coords="5,201,192,243"/>
+<area shape="rect" id="node2" href="$de/d7d/classGPUCA__NAMESPACE_1_1gpu_1_1IrregularSpline1D.html" title="GPUCA_NAMESPACE::gpu\l::IrregularSpline1D" alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node3" href="$d5/d77/classGPUCA__NAMESPACE_1_1gpu_1_1IrregularSpline2D3D.html" title="GPUCA_NAMESPACE::gpu\l::IrregularSpline2D3D" alt="" coords="240,71,427,112"/>
+<area shape="rect" id="node4" href="$d2/def/classGPUCA__NAMESPACE_1_1gpu_1_1SemiregularSpline2D3D.html" title="GPUCA_NAMESPACE::gpu\l::SemiregularSpline2D3D" alt="" coords="240,136,427,177"/>
+<area shape="rect" id="node5" href="$d0/d36/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1D.html" title="GPUCA_NAMESPACE::gpu\l::Spline1D" alt="" coords="240,201,427,243"/>
+<area shape="rect" id="node6" href="$d3/dc3/classGPUCA__NAMESPACE_1_1gpu_1_1Spline2D.html" title="GPUCA_NAMESPACE::gpu\l::Spline2D" alt="" coords="240,267,427,308"/>
+<area shape="rect" id="node7" href="$d9/d07/classGPUCA__NAMESPACE_1_1gpu_1_1TPCDistortionIRS.html" title="GPUCA_NAMESPACE::gpu\l::TPCDistortionIRS" alt="" coords="240,332,427,373"/>
+<area shape="rect" id="node8" href="$d2/d47/classGPUCA__NAMESPACE_1_1gpu_1_1TPCFastTransform.html" title="GPUCA_NAMESPACE::gpu\l::TPCFastTransform" alt="" coords="240,397,427,439"/>
+</map>

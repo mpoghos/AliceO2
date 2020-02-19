@@ -1,0 +1,8 @@
+digraph "GPUCA_NAMESPACE::gpu::SplineHelper2D"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{GPUCA_NAMESPACE::gpu\l::SplineHelper2D\n||+ SplineHelper2D()\l+ SplineHelper2D()\l+ operator=()\l+ ~SplineHelper2D()\l+ setSpline()\l+ constructParameters()\l+ constructParameters()\l+ getNumberOfDataPointsU()\l+ getNumberOfDataPointsV()\l+ getNumberOfDataPoints()\l+ getHelperU()\l+ getHelperV()\l+ getLastError()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+}

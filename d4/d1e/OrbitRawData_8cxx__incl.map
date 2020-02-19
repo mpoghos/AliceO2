@@ -1,0 +1,7 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/ZDC/src/OrbitRawData.cxx" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/ZDC/src/OrbitRawData.cxx">
+<area shape="rect" id="node2" href="$de/d87/OrbitRawData_8h.html" title="Class to describe ZDC scalers and pedestals per orbit, received from the FE. " alt="" coords="480,124,721,151"/>
+<area shape="rect" id="node3" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="203,199,435,240"/>
+<area shape="rect" id="node9" href="$d3/dd7/Detectors_2ZDC_2base_2include_2ZDCBase_2Constants_8h.html" title="ZDCBase/Constants.h" alt="" coords="710,206,873,233"/>
+<area shape="rect" id="node8" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="285,288,538,315"/>
+<area shape="rect" id="node10" href="$d3/d9d/PhysicsConstants_8h.html" title="Header to collect physics constants. " alt="" coords="653,288,929,315"/>
+</map>

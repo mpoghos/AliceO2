@@ -1,0 +1,29 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/MUON/MID/include/DataFormatsMID/ColumnData.h" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/MUON/MID/include/DataFormatsMID/ColumnData.h">
+<area shape="rect" id="node2" href="$dc/d7c/ColumnData_8cxx.html" title="Strip pattern (aka digits) " alt="" coords="5,139,236,209"/>
+<area shape="rect" id="node3" href="$d7/d1a/PreClusterizer_8h.html" title="Pre&#45;cluster reconstruction algorithm for MID. " alt="" coords="961,139,1235,209"/>
+<area shape="rect" id="node5" href="$d2/d12/bench__Clusterizer_8cxx.html" title="Benchmark clustering device for MID. " alt="" coords="312,257,545,328"/>
+<area shape="rect" id="node7" href="$d6/d45/testSimulation_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MID/Simulation\l/test/testSimulation.cxx" alt="" coords="2651,376,2889,447"/>
+<area shape="rect" id="node8" href="$d3/d1e/ClusterizerMCSpec_8cxx.html" title="Data processor spec for MID MC clustering device. " alt="" coords="1135,257,1362,328"/>
+<area shape="rect" id="node9" href="$d6/d57/MUON_2MID_2Workflow_2src_2ClusterizerSpec_8cxx.html" title="Data processor spec for MID clustering device. " alt="" coords="1386,257,1613,328"/>
+<area shape="rect" id="node10" href="$de/dc5/MUON_2MID_2Raw_2include_2MIDRaw_2Decoder_8h.html" title="Mid raw data decoder. " alt="" coords="1885,139,2084,209"/>
+<area shape="rect" id="node13" href="$d8/d4c/testRaw_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MID/Raw\l/test/testRaw.cxx" alt="" coords="2106,257,2301,328"/>
+<area shape="rect" id="node14" href="$dc/d4c/MUON_2MID_2Workflow_2src_2RawReaderSpec_8cxx.html" title="Data processor spec for MID raw reader device. " alt="" coords="1637,257,1863,328"/>
+<area shape="rect" id="node15" href="$db/de0/MUON_2MID_2Raw_2include_2MIDRaw_2Encoder_8h.html" title="MID raw data encoder. " alt="" coords="2323,139,2521,209"/>
+<area shape="rect" id="node17" href="$db/dd6/RawWriterSpec_8cxx.html" title="Digits to raw converter spec for MID. " alt="" coords="2762,257,2989,328"/>
+<area shape="rect" id="node18" href="$d0/d00/ColumnDataMC_8h.html" title="Strip pattern (aka digits) for simulations. " alt="" coords="3284,139,3573,209"/>
+<area shape="rect" id="node22" href="$dc/d92/DigitsMerger_8h.html" title="Digits merger for MID. " alt="" coords="3885,257,4156,328"/>
+<area shape="rect" id="node24" href="$d6/d1b/MUON_2MID_2Workflow_2src_2DigitReaderSpec_8cxx.html" title="Data processor spec for MID digits reader device. " alt="" coords="4166,376,4393,447"/>
+<area shape="rect" id="node4" href="$db/d2e/PreClusterizer_8cxx.html" title="Implementation of the pre&#45;cluster reconstruction algorithm for MID. " alt="" coords="827,257,1060,328"/>
+<area shape="rect" id="node6" href="$d6/dee/testClusterizer_8cxx.html" title="Test clustering device for MID. " alt="" coords="569,257,803,328"/>
+<area shape="rect" id="node11" href="$dc/d28/MUON_2MID_2Raw_2src_2Decoder_8cxx.html" title="MID raw data decoder. " alt="" coords="1887,257,2082,328"/>
+<area shape="rect" id="node12" href="$d5/d52/bench__Raw_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MID/Raw\l/test/bench_Raw.cxx" alt="" coords="2325,257,2519,328"/>
+<area shape="rect" id="node16" href="$d8/dc6/MUON_2MID_2Raw_2src_2Encoder_8cxx.html" title="MID raw data encoder. " alt="" coords="2543,257,2738,328"/>
+<area shape="rect" id="node19" href="$da/de1/MUON_2MID_2Simulation_2include_2MIDSimulation_2Digitizer_8h.html" title="Digitizer for MID. " alt="" coords="3063,257,3306,328"/>
+<area shape="rect" id="node21" href="$d4/dd3/MIDDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/MIDDigitizerSpec.cxx" alt="" coords="3174,376,3361,447"/>
+<area shape="rect" id="node25" href="$db/de4/DigitsPacker_8h.html" title="Digits sorter for MID. " alt="" coords="3381,257,3649,328"/>
+<area shape="rect" id="node27" href="$d9/d65/MIDDigitWriterSpec_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/MIDDigitWriterSpec.h" alt="" coords="3674,257,3861,328"/>
+<area shape="rect" id="node20" href="$d6/df9/MUON_2MID_2Simulation_2src_2Digitizer_8cxx.html" title="Implementation of the digitizer for MID. " alt="" coords="2913,376,3150,447"/>
+<area shape="rect" id="node23" href="$db/d63/DigitsMerger_8cxx.html" title="Implementation of the digits merger for MID. " alt="" coords="3905,376,4142,447"/>
+<area shape="rect" id="node26" href="$db/dc7/DigitsPacker_8cxx.html" title="Implementation of the digits Sorter for MID. " alt="" coords="3385,376,3622,447"/>
+<area shape="rect" id="node28" href="$d2/dd7/SimpleDigitizerWorkflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/SimpleDigitizerWorkflow.cxx" alt="" coords="3646,376,3881,447"/>
+</map>

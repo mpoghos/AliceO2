@@ -1,0 +1,27 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/simulation/include/TOFSimulation/DigitizerTask.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/simulation/include/TOFSimulation/DigitizerTask.h">
+<area shape="rect" id="node4" href="$d1/d90/Detectors_2TOF_2base_2include_2TOFBase_2Digit_8h.html" title="TOFBase/Digit.h" alt="" coords="4489,377,4616,404"/>
+<area shape="rect" id="node12" href="$d5/d3c/TOF_2simulation_2include_2TOFSimulation_2Detector_8h.html" title="TOFSimulation/Detector.h" alt="" coords="2865,213,3053,240"/>
+<area shape="rect" id="node47" href="$d0/d85/TOF_2simulation_2include_2TOFSimulation_2Digitizer_8h.html" title="TOFSimulation/Digitizer.h" alt="" coords="3479,139,3666,165"/>
+<area shape="rect" id="node53" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="2556,288,2725,329"/>
+<area shape="rect" id="node6" href="$d4/d54/Geo_8h.html" title="TOFBase/Geo.h" alt="" coords="2432,459,2553,486"/>
+<area shape="rect" id="node8" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="4471,459,4751,486"/>
+<area shape="rect" id="node7" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="2530,549,2783,575"/>
+<area shape="rect" id="node9" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="4421,549,4588,575"/>
+<area shape="rect" id="node13" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="1376,295,1564,322"/>
+<area shape="rect" id="node32" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="397,377,610,404"/>
+<area shape="rect" id="node36" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="3265,288,3435,329"/>
+<area shape="rect" id="node20" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="1349,377,1591,404"/>
+<area shape="rect" id="node27" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="326,459,537,486"/>
+<area shape="rect" id="node37" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="3895,377,4075,404"/>
+<area shape="rect" id="node44" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="3973,459,4153,486"/>
+<area shape="rect" id="node48" href="$dd/d77/Strip_8h.html" title="TOFBase/Strip.h" alt="" coords="4098,295,4223,322"/>
+<area shape="rect" id="node52" href="$d0/de5/WindowFiller_8h.html" title="TOFBase/WindowFiller.h" alt="" coords="3999,213,4176,240"/>
+<area shape="rect" id="node59" href="$df/d5b/Detectors_2TOF_2simulation_2include_2TOFSimulation_2MCLabel_8h.html" title="TOFSimulation/MCLabel.h" alt="" coords="4227,213,4415,240"/>
+<area shape="rect" id="node61" href="$d7/d65/CalibTOFapi_8h.html" title="Class to use TOF calibration (decalibration, calibration) " alt="" coords="3467,213,3678,240"/>
+<area shape="rect" id="node60" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="4299,288,4468,329"/>
+<area shape="rect" id="node63" href="$d5/df3/BasicCCDBManager_8h.html" title="CCDB/BasicCCDBManager.h" alt="" coords="2799,295,3002,322"/>
+<area shape="rect" id="node67" href="$d8/de0/CalibLHCphaseTOF_8h.html" title="Class to store the output of the matching to TOF for calibration. " alt="" coords="3564,288,3797,329"/>
+<area shape="rect" id="node68" href="$d3/d81/CalibTimeSlewingParamTOF_8h.html" title="Class to store the output of the matching to TOF for calibration. " alt="" coords="3821,288,4023,329"/>
+<area shape="rect" id="node64" href="$dd/d3e/CcdbApi_8h.html" title="CCDB/CcdbApi.h" alt="" coords="2189,377,2317,404"/>
+<area shape="rect" id="node66" href="$da/d86/CCDBTimeStampUtils_8h.html" title="CCDB/CCDBTimeStampUtils.h" alt="" coords="2939,377,3156,404"/>
+</map>

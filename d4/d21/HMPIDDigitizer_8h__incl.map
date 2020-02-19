@@ -1,0 +1,17 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/HMPID/simulation/include/HMPIDSimulation/HMPIDDigitizer.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/HMPID/simulation/include/HMPIDSimulation/HMPIDDigitizer.h">
+<area shape="rect" id="node2" href="$da/d3c/Detectors_2HMPID_2base_2include_2HMPIDBase_2Digit_8h.html" title="HMPIDBase/Digit.h" alt="" coords="1273,131,1417,158"/>
+<area shape="rect" id="node32" href="$df/d79/HMPID_2simulation_2include_2HMPIDSimulation_2Detector_8h.html" title="HMPIDSimulation/Detector.h" alt="" coords="2417,131,2623,158"/>
+<area shape="rect" id="node49" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="3613,213,3782,255"/>
+<area shape="rect" id="node54" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1863,124,2033,165"/>
+<area shape="rect" id="node3" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="1221,221,1470,247"/>
+<area shape="rect" id="node6" href="$d5/deb/Detectors_2HMPID_2base_2include_2HMPIDBase_2Hit_8h.html" title="HMPIDBase/Hit.h" alt="" coords="1639,221,1771,247"/>
+<area shape="rect" id="node26" href="$de/d16/Param_8h.html" title="HMPIDBase/Param.h" alt="" coords="988,221,1143,247"/>
+<area shape="rect" id="node4" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1246,310,1413,337"/>
+<area shape="rect" id="node7" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="1437,303,1606,344"/>
+<area shape="rect" id="node19" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="1631,310,1844,337"/>
+<area shape="rect" id="node8" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="842,392,1022,419"/>
+<area shape="rect" id="node16" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="229,474,409,501"/>
+<area shape="rect" id="node20" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="1720,392,1931,419"/>
+<area shape="rect" id="node34" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="2426,221,2614,247"/>
+<area shape="rect" id="node40" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="3042,310,3283,337"/>
+</map>

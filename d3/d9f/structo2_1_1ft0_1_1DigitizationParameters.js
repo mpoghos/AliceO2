@@ -1,0 +1,25 @@
+var structo2_1_1ft0_1_1DigitizationParameters =
+[
+    [ "A_side_cable_cmps", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#a3aba0013225ff3e8d88b4f0c6ab528d9", null ],
+    [ "C_side_cable_cmps", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#a9189d617f04132ce75a22b4fdcd41120", null ],
+    [ "channelWidth", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#a748a09b785417f3944e8a55e46869129", null ],
+    [ "mCFD_trsh", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#ab9ffa89b42e8ed701b256744d6e038c7", null ],
+    [ "mCfdShift", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#a7499f54be01aa0a0a1ac9d522fc77ef4", null ],
+    [ "mCFDShiftPos", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#ad8751249bf12c16bfe3ae26781390a72", null ],
+    [ "mMCPs", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#a8d1da596a738e56808440ac5d817084f", null ],
+    [ "mMip_in_V", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#aab68bfc4704a278948efaf3a880394c3", null ],
+    [ "mNoisePeriod", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#ad1310211ca94d79507f4f35bdaec8ed6", null ],
+    [ "mNoiseVar", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#aec1fcc40284fec7d3202f2e8a7b5ec5d", null ],
+    [ "mPe_in_mip", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#a937a443204c10a8a292b28a54cb6ebde", null ],
+    [ "mSignalWidth", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#a5c37857e568c61c0eca207a961fb41ea", null ],
+    [ "mTime_trg_gate", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#ab460d32096b01e0b3b61e039103af17a", null ],
+    [ "mTimeDiffAC", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#a2af771218d8041de7185c04194d24bc1", null ],
+    [ "mtrg_central_trh", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#ac6353b9819d51dacad96fa92dc3fd6ea", null ],
+    [ "mtrg_semicentral_trh", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#ad19c05b33aa8c4a3a21086000301efaa", null ],
+    [ "mtrg_vertex", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#a355a887050935e59213355980f2100a3", null ],
+    [ "mV_2_Nchannels", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#a01c56107b29db845e97078a5747a7120", null ],
+    [ "nCellsA", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#adc53c22b9598e17c2d8438cbe804e396", null ],
+    [ "nCellsC", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#a8fefd2b6496b97a640831b1bc02ab956", null ],
+    [ "zDetA", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#afbb896fa1e2bb3afe1a3004b529626c7", null ],
+    [ "zDetC", "d3/d9f/structo2_1_1ft0_1_1DigitizationParameters.html#a2f9b2e773cd07662363bc5f08f27f29c", null ]
+];

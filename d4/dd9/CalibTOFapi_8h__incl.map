@@ -1,0 +1,7 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/calibration/include/TOFCalibration/CalibTOFapi.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/calibration/include/TOFCalibration/CalibTOFapi.h">
+<area shape="rect" id="node3" href="$d5/df3/BasicCCDBManager_8h.html" title="CCDB/BasicCCDBManager.h" alt="" coords="430,131,633,158"/>
+<area shape="rect" id="node12" href="$d8/de0/CalibLHCphaseTOF_8h.html" title="Class to store the output of the matching to TOF for calibration. " alt="" coords="657,124,891,165"/>
+<area shape="rect" id="node15" href="$d3/d81/CalibTimeSlewingParamTOF_8h.html" title="Class to store the output of the matching to TOF for calibration. " alt="" coords="915,124,1116,165"/>
+<area shape="rect" id="node4" href="$dd/d3e/CcdbApi_8h.html" title="CCDB/CcdbApi.h" alt="" coords="197,213,325,240"/>
+<area shape="rect" id="node11" href="$da/d86/CCDBTimeStampUtils_8h.html" title="CCDB/CCDBTimeStampUtils.h" alt="" coords="349,213,567,240"/>
+</map>

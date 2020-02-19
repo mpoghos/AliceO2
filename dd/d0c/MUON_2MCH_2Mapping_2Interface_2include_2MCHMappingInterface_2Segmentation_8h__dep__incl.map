@@ -1,0 +1,10 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Mapping/Interface/include/MCHMappingInterface/Segmentation.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Mapping/Interface/include/MCHMappingInterface/Segmentation.h">
+<area shape="rect" id="node2" href="$d0/d28/CreateSegmentation_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Mapping\l/Factory/include/MCHMappingFactory\l/CreateSegmentation.h" alt="" coords="50,139,310,224"/>
+<area shape="rect" id="node4" href="$dd/d1c/SegmentationContours_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Mapping\l/SegContour/include/MCHMappingSegContour\l/SegmentationContours.h" alt="" coords="355,139,671,224"/>
+<area shape="rect" id="node6" href="$d5/d2d/MUON_2MCH_2Mapping_2test_2src_2Segmentation_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Mapping\l/test/src/Segmentation.cxx" alt="" coords="619,272,845,343"/>
+<area shape="rect" id="node7" href="$da/d72/BenchSegmentation_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Mapping\l/test/src/BenchSegmentation.cxx" alt="" coords="746,146,982,217"/>
+<area shape="rect" id="node8" href="$d7/de0/MUON_2MCH_2Simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Simulation\l/src/Digitizer.cxx" alt="" coords="1007,146,1249,217"/>
+<area shape="rect" id="node9" href="$dc/dc3/testDigitization_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Simulation\l/test/testDigitization.cxx" alt="" coords="1273,146,1516,217"/>
+<area shape="rect" id="node3" href="$d2/d7e/CreateSegmentation_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Mapping\l/Factory/src/CreateSegmentation.cxx" alt="" coords="5,272,267,343"/>
+<area shape="rect" id="node5" href="$de/de2/SegmentationContours_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Mapping\l/SegContour/src/SegmentationContours.cxx" alt="" coords="291,272,595,343"/>
+</map>

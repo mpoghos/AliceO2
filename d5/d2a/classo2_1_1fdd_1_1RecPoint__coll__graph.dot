@@ -1,0 +1,8 @@
+digraph "o2::fdd::RecPoint"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{o2::fdd::RecPoint\n||+ RecPoint()\l+ RecPoint()\l+ ~RecPoint()\l+ GetMeanTimeFDA()\l+ GetMeanTimeFDC()\l+ SetMeanTimeFDA()\l+ SetMeanTimeFDC()\l+ GetTimeFromDigit()\l+ SetTimeFromDigit()\l+ GetChannelData()\l+ SetChannelData()\l+ SetChannelData()\l+ SetInteractionRecord()\l+ SetInteractionRecord()\l+ GetInteractionRecord()\l+ GetInteractionRecord()\l+ GetOrbit()\l+ GetBC()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+}

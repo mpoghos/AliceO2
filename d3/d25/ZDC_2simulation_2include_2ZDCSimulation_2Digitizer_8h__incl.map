@@ -1,0 +1,20 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ZDC/simulation/include/ZDCSimulation/Digitizer.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ZDC/simulation/include/ZDCSimulation/Digitizer.h">
+<area shape="rect" id="node2" href="$dd/de7/Detectors_2ZDC_2simulation_2include_2ZDCSimulation_2Hit_8h.html" title="ZDCSimulation/Hit.h" alt="" coords="1601,124,1756,151"/>
+<area shape="rect" id="node23" href="$d7/d7a/Detectors_2ZDC_2simulation_2include_2ZDCSimulation_2MCLabel_8h.html" title="ZDCSimulation/MCLabel.h" alt="" coords="1934,124,2125,151"/>
+<area shape="rect" id="node26" href="$d4/d8c/ModuleConfig_8h.html" title="ZDCBase/ModuleConfig.h" alt="" coords="2835,124,3021,151"/>
+<area shape="rect" id="node34" href="$d5/df4/ZDC_2include_2DataFormatsZDC_2ChannelData_8h.html" title="DataFormatsZDC/ChannelData.h" alt="" coords="3045,124,3280,151"/>
+<area shape="rect" id="node35" href="$dd/d40/ZDC_2include_2DataFormatsZDC_2BCData_8h.html" title="DataFormatsZDC/BCData.h" alt="" coords="2378,124,2577,151"/>
+<area shape="rect" id="node36" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="2437,199,2669,240"/>
+<area shape="rect" id="node41" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="3519,199,3689,240"/>
+<area shape="rect" id="node3" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="1594,199,1763,240"/>
+<area shape="rect" id="node16" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="1356,206,1569,233"/>
+<area shape="rect" id="node4" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1595,288,1775,315"/>
+<area shape="rect" id="node13" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="615,370,795,397"/>
+<area shape="rect" id="node17" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="172,288,383,315"/>
+<area shape="rect" id="node24" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1787,199,1957,240"/>
+<area shape="rect" id="node25" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1902,288,2069,315"/>
+<area shape="rect" id="node27" href="$d3/dd7/Detectors_2ZDC_2base_2include_2ZDCBase_2Constants_8h.html" title="ZDCBase/Constants.h" alt="" coords="2897,206,3060,233"/>
+<area shape="rect" id="node28" href="$d3/d9d/PhysicsConstants_8h.html" title="Header to collect physics constants. " alt="" coords="3051,288,3327,315"/>
+<area shape="rect" id="node39" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="1981,206,2261,233"/>
+<area shape="rect" id="node38" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="2427,288,2680,315"/>
+</map>

@@ -1,0 +1,60 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Steer/DigitizerWorkflow/src/MIDDigitizerSpec.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Steer/DigitizerWorkflow/src/MIDDigitizerSpec.cxx">
+<area shape="rect" id="node2" href="$d5/d91/MIDDigitizerSpec_8h.html" title="MIDDigitizerSpec.h" alt="" coords="1253,124,1399,151"/>
+<area shape="rect" id="node3" href="$d0/df4/DataProcessorSpec_8h.html" title="Framework/DataProcessorSpec.h" alt="" coords="1098,199,1333,225"/>
+<area shape="rect" id="node20" href="$dc/dca/Lifetime_8h.html" title="Framework/Lifetime.h" alt="" coords="336,355,500,382"/>
+<area shape="rect" id="node22" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="809,534,979,561"/>
+<area shape="rect" id="node36" href="$de/dc6/ConfigParamRegistry_8h.html" title="Framework/ConfigParamRegistry.h" alt="" coords="115,445,358,471"/>
+<area shape="rect" id="node39" href="$d2/d43/ControlService_8h.html" title="Framework/ControlService.h" alt="" coords="2886,124,3091,151"/>
+<area shape="rect" id="node40" href="$d5/db8/DataRefUtils_8h.html" title="Framework/DataRefUtils.h" alt="" coords="2726,355,2918,382"/>
+<area shape="rect" id="node59" href="$df/d4f/Task_8h.html" title="Framework/Task.h" alt="" coords="2547,199,2686,225"/>
+<area shape="rect" id="node62" href="$dd/d40/HitProcessingManager_8h.html" title="Steer/HitProcessingManager.h" alt="" coords="3837,355,4053,382"/>
+<area shape="rect" id="node70" href="$db/dcc/Detectors_2Base_2include_2DetectorsBase_2GeometryManager_8h.html" title="DetectorsBase/GeometryManager.h" alt="" coords="4911,445,5165,471"/>
+<area shape="rect" id="node79" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="2885,527,3055,568"/>
+<area shape="rect" id="node81" href="$de/d28/GRPObject_8h.html" title="Header of the General Run Parameters object. " alt="" coords="5935,437,6115,479"/>
+<area shape="rect" id="node84" href="$d2/df9/MUON_2MID_2include_2DataFormatsMID_2ROFRecord_8h.html" title="Definition of the MID event record. " alt="" coords="3992,199,4209,225"/>
+<area shape="rect" id="node85" href="$d0/d00/ColumnDataMC_8h.html" title="Strip pattern (aka digits) for simulations. " alt="" coords="6611,445,6846,471"/>
+<area shape="rect" id="node88" href="$da/de1/MUON_2MID_2Simulation_2include_2MIDSimulation_2Digitizer_8h.html" title="Digitizer for MID. " alt="" coords="6795,355,6982,382"/>
+<area shape="rect" id="node92" href="$d5/d62/ChamberResponse_8h.html" title="MID RPC response. " alt="" coords="7699,445,7953,471"/>
+<area shape="rect" id="node95" href="$de/d74/ChamberEfficiencyResponse_8h.html" title="MID RPC effciency response. " alt="" coords="7238,437,7481,479"/>
+<area shape="rect" id="node98" href="$de/da1/Detectors_2MUON_2MID_2Simulation_2include_2MIDSimulation_2MCLabel_8h.html" title="Label for MID. " alt="" coords="7977,445,8165,471"/>
+<area shape="rect" id="node100" href="$d1/db4/MUON_2MID_2Simulation_2include_2MIDSimulation_2Geometry_8h.html" title="Implementation of the trigger&#45;stations geometry. " alt="" coords="3559,355,3755,382"/>
+<area shape="rect" id="node4" href="$d0/d14/AlgorithmSpec_8h.html" title="Framework/AlgorithmSpec.h" alt="" coords="1819,273,2025,300"/>
+<area shape="rect" id="node10" href="$d0/d1c/ConfigParamSpec_8h.html" title="Framework/ConfigParamSpec.h" alt="" coords="1104,445,1327,471"/>
+<area shape="rect" id="node17" href="$d1/df2/DataProcessorLabel_8h.html" title="Framework/DataProcessorLabel.h" alt="" coords="705,273,944,300"/>
+<area shape="rect" id="node18" href="$d5/dfb/DataRef_8h.html" title="Framework/DataRef.h" alt="" coords="1351,445,1512,471"/>
+<area shape="rect" id="node19" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="968,273,1143,300"/>
+<area shape="rect" id="node34" href="$db/d2d/OutputSpec_8h.html" title="Framework/OutputSpec.h" alt="" coords="496,273,681,300"/>
+<area shape="rect" id="node5" href="$de/d6a/ProcessingContext_8h.html" title="Framework/ProcessingContext.h" alt="" coords="2249,355,2480,382"/>
+<area shape="rect" id="node6" href="$d7/dad/ErrorContext_8h.html" title="Framework/ErrorContext.h" alt="" coords="1826,355,2018,382"/>
+<area shape="rect" id="node7" href="$d4/d2b/InitContext_8h.html" title="Framework/InitContext.h" alt="" coords="2043,355,2225,382"/>
+<area shape="rect" id="node8" href="$de/d9b/FunctionalHelpers_8h.html" title="Framework/FunctionalHelpers.h" alt="" coords="1525,355,1751,382"/>
+<area shape="rect" id="node11" href="$de/d56/Variant_8h.html" title="Framework/Variant.h" alt="" coords="1507,534,1663,561"/>
+<area shape="rect" id="node21" href="$d0/d1b/ConcreteDataMatcher_8h.html" title="Framework/ConcreteDataMatcher.h" alt="" coords="627,445,878,471"/>
+<area shape="rect" id="node29" href="$d3/da3/DataDescriptorMatcher_8h.html" title="Framework/DataDescriptor\lMatcher.h" alt="" coords="912,348,1108,389"/>
+<area shape="rect" id="node27" href="$d7/df8/Types_8h.html" title="Types.h" alt="" coords="1035,623,1105,650"/>
+<area shape="rect" id="node37" href="$df/d72/ParamRetriever_8h.html" title="Framework/ParamRetriever.h" alt="" coords="47,534,256,561"/>
+<area shape="rect" id="node41" href="$d8/d3c/TMessageSerializer_8h.html" title="Framework/TMessageSerializer.h" alt="" coords="2113,445,2347,471"/>
+<area shape="rect" id="node52" href="$d1/d53/SerializationMethods_8h.html" title="Type wrappers for enfording a specific serialization method. " alt="" coords="3203,445,3449,471"/>
+<area shape="rect" id="node53" href="$d0/d95/TypeTraits_8h.html" title="Framework/TypeTraits.h" alt="" coords="3079,534,3253,561"/>
+<area shape="rect" id="node50" href="$dc/d03/MemoryResources_8h.html" title="MemoryResources/MemoryResources.h" alt="" coords="1207,534,1483,561"/>
+<area shape="rect" id="node55" href="$d7/d91/BoostSerializer_8h.html" title="Templatised boost serializer/deserializer for containers and base types. " alt="" coords="3379,534,3603,561"/>
+<area shape="rect" id="node60" href="$d9/d7f/CallbackService_8h.html" title="Framework/CallbackService.h" alt="" coords="2607,273,2821,300"/>
+<area shape="rect" id="node61" href="$d0/d77/EndOfStreamContext_8h.html" title="Framework/EndOfStreamContext.h" alt="" coords="2845,273,3092,300"/>
+<area shape="rect" id="node63" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="4086,527,4318,568"/>
+<area shape="rect" id="node66" href="$d5/d3f/RunContext_8h.html" title="SimulationDataFormat\l/RunContext.h" alt="" coords="3881,437,4051,479"/>
+<area shape="rect" id="node67" href="$df/dff/InteractionSampler_8h.html" title="Steer/InteractionSampler.h" alt="" coords="4246,445,4441,471"/>
+<area shape="rect" id="node65" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="4229,623,4482,650"/>
+<area shape="rect" id="node75" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="5585,527,5813,568"/>
+<area shape="rect" id="node77" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="7068,534,7248,561"/>
+<area shape="rect" id="node78" href="$db/dba/MatCell_8h.html" title="Declarations for material properties of the cell (voxel) " alt="" coords="4689,534,4872,561"/>
+<area shape="rect" id="node83" href="$da/d58/Units_8h.html" title="Header to collect definitions for different units. " alt="" coords="6073,534,6241,561"/>
+<area shape="rect" id="node86" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="6795,534,7044,561"/>
+<area shape="rect" id="node87" href="$d3/d53/ColumnData_8h.html" title="Strip pattern (aka digits) " alt="" coords="6543,534,6771,561"/>
+<area shape="rect" id="node90" href="$d4/d73/MID_2Base_2include_2MIDBase_2Mapping_8h.html" title="Mapping for MID. " alt="" coords="6316,534,6467,561"/>
+<area shape="rect" id="node91" href="$de/d0c/GeometryTransformer_8h.html" title="Geometry transformer for MID. " alt="" coords="6926,445,7163,471"/>
+<area shape="rect" id="node97" href="$d7/d8d/Detectors_2MUON_2MID_2Simulation_2include_2MIDSimulation_2Hit_8h.html" title="Hit for MID. " alt="" coords="2926,445,3078,471"/>
+<area shape="rect" id="node93" href="$d8/d17/ChamberResponseParams_8h.html" title="Parameters for MID RPC response. " alt="" coords="7945,527,8187,568"/>
+<area shape="rect" id="node94" href="$d8/d82/ChamberHV_8h.html" title="HV values for MID RPCs. " alt="" coords="7711,534,7920,561"/>
+<area shape="rect" id="node96" href="$d3/dbe/ChamberEfficiency_8h.html" title="Measured values of the RPC efficiency. " alt="" coords="7420,534,7635,561"/>
+<area shape="rect" id="node99" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="8212,527,8381,568"/>
+</map>

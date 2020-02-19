@@ -1,0 +1,9 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Utilities/Mergers/include/Mergers/MergeInterface.h" name="/home/travis/build/AliceO2Group/AliceO2/Utilities/Mergers/include/Mergers/MergeInterface.h">
+<area shape="rect" id="node2" href="$d6/db4/MergeInterfaceOverrideExample_8h.html" title="An example of overriding O2 Mergers merging interface, v0.1. " alt="" coords="225,124,530,195"/>
+<area shape="rect" id="node5" href="$d8/dc0/Merger_8h.html" title="Definition of O2 Merger, v0.1. " alt="" coords="627,124,811,195"/>
+<area shape="rect" id="node3" href="$dc/daf/mergersBenchmarkTopology_8cxx.html" title="This is a DPL workflow to benchmark Mergers. " alt="" coords="5,243,243,313"/>
+<area shape="rect" id="node4" href="$d9/de7/mergersTopologyExample_8cxx.html" title="This is a DPL workflow to see Mergers in action. " alt="" coords="266,243,489,313"/>
+<area shape="rect" id="node6" href="$d6/d12/Merger_8cxx.html" title="Implementation of O2 Mergers, v0.1. " alt="" coords="513,243,682,313"/>
+<area shape="rect" id="node7" href="$d8/d56/MergerBuilder_8cxx.html" title="Definition of MergerBuilder for O2 Mergers. " alt="" coords="706,243,875,313"/>
+<area shape="rect" id="node8" href="$d4/dda/MergerInfrastructureBuilder_8cxx.html" title="Definition of Mergers&#39; Infrastructure Builder. " alt="" coords="899,243,1130,313"/>
+</map>

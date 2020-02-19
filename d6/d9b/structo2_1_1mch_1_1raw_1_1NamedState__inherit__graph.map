@@ -1,0 +1,7 @@
+<map id="o2::mch::raw::NamedState" name="o2::mch::raw::NamedState">
+<area shape="rect" id="node3" href="$d8/d68/structo2_1_1mch_1_1raw_1_1WaitingHeader.html" title="{o2::mch::raw::WaitingHeader\n||+ WaitingHeader()\l}" alt="" coords="5,256,215,333"/>
+<area shape="rect" id="node4" href="$d1/dc8/structo2_1_1mch_1_1raw_1_1WaitingSample.html" title="{o2::mch::raw::WaitingSample\n||+ WaitingSample()\l}" alt="" coords="239,256,450,333"/>
+<area shape="rect" id="node5" href="$dd/d9d/structo2_1_1mch_1_1raw_1_1WaitingSize.html" title="{o2::mch::raw::WaitingSize\n||+ WaitingSize()\l}" alt="" coords="474,256,663,333"/>
+<area shape="rect" id="node6" href="$d7/dfe/structo2_1_1mch_1_1raw_1_1WaitingSync.html" title="{o2::mch::raw::WaitingSync\n||+ WaitingSync()\l}" alt="" coords="688,256,881,333"/>
+<area shape="rect" id="node7" href="$d7/df3/structo2_1_1mch_1_1raw_1_1WaitingTime.html" title="{o2::mch::raw::WaitingTime\n||+ WaitingTime()\l}" alt="" coords="906,256,1101,333"/>
+</map>

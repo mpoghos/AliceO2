@@ -1,0 +1,4 @@
+<map id="o2::mch::raw::StateMachine_&lt; CHARGESUM &gt;" name="o2::mch::raw::StateMachine_&lt; CHARGESUM &gt;">
+<area shape="rect" id="node8" href="$d8/d90/classo2_1_1mch_1_1raw_1_1SampaHeader.html" title="SampaHeader is the 50&#45;bits header word used in Sampa data transmission protocol. " alt="" coords="1069,5,1274,508"/>
+<area shape="rect" id="node9" href="$d9/d8c/classo2_1_1mch_1_1raw_1_1DsElecId.html" title="{o2::mch::raw::DsElecId\n||+ DsElecId()\l+ elinkIndexInGroup()\l+ elinkGroupId()\l+ elinkId()\l+ solarId()\l+ operator==()\l+ operator!=()\l}" alt="" coords="1299,174,1468,339"/>
+</map>

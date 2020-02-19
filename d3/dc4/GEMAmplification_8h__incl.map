@@ -1,0 +1,24 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/include/TPCSimulation/GEMAmplification.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/include/TPCSimulation/GEMAmplification.h">
+<area shape="rect" id="node2" href="$db/dac/RandomRing_8h.html" title="MathUtils/RandomRing.h" alt="" coords="159,206,341,233"/>
+<area shape="rect" id="node8" href="$db/d5b/ParameterGas_8h.html" title="Definition of the parameter class for the detector gas. " alt="" coords="543,124,730,151"/>
+<area shape="rect" id="node20" href="$de/d2b/ParameterGEM_8h.html" title="Definition of the parameter class for the GEM stack. " alt="" coords="824,124,1015,151"/>
+<area shape="rect" id="node22" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="2587,452,2710,479"/>
+<area shape="rect" id="node39" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="2029,527,2170,553"/>
+<area shape="rect" id="node40" href="$d6/d2b/TPC_2base_2include_2TPCBase_2CalDet_8h.html" title="TPCBase/CalDet.h" alt="" coords="1775,124,1914,151"/>
+<area shape="rect" id="node9" href="$db/d2c/ConfigurableParam_8h.html" title="SimConfig/ConfigurableParam.h" alt="" coords="470,288,697,315"/>
+<area shape="rect" id="node16" href="$da/d6b/ConfigurableParamHelper_8h.html" title="SimConfig/ConfigurableParam\lHelper.h" alt="" coords="812,199,1027,240"/>
+<area shape="rect" id="node23" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="2032,676,2209,703"/>
+<area shape="rect" id="node36" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="2684,601,2819,628"/>
+<area shape="rect" id="node38" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="2486,527,2609,553"/>
+<area shape="rect" id="node24" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1136,833,1316,859"/>
+<area shape="rect" id="node27" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="2031,751,2211,777"/>
+<area shape="rect" id="node37" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="2645,676,2857,703"/>
+<area shape="rect" id="node47" href="$d5/d1d/TPC_2base_2include_2TPCBase_2Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="1639,288,1781,315"/>
+<area shape="rect" id="node54" href="$db/d9b/CalArray_8h.html" title="TPCBase/CalArray.h" alt="" coords="1489,206,1638,233"/>
+<area shape="rect" id="node48" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="2247,452,2411,479"/>
+<area shape="rect" id="node49" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="1900,452,2069,479"/>
+<area shape="rect" id="node50" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="2145,370,2294,397"/>
+<area shape="rect" id="node51" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="2465,601,2609,628"/>
+<area shape="rect" id="node52" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="1747,370,1934,397"/>
+<area shape="rect" id="node53" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="1447,370,1621,397"/>
+</map>

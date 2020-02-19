@@ -1,0 +1,13 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Raw/Encoder/Payload/EncoderImpl.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Raw/Encoder/Payload/EncoderImpl.h">
+<area shape="rect" id="node2" href="$dc/d46/Assertions_8h.html" title="Assertions.h" alt="" coords="23,199,126,225"/>
+<area shape="rect" id="node4" href="$d4/d54/GBTEncoder_8h.html" title="GBTEncoder.h" alt="" coords="1018,124,1130,151"/>
+<area shape="rect" id="node14" href="$d7/dee/MakeArray_8h.html" title="MakeArray.h" alt="" coords="150,199,252,225"/>
+<area shape="rect" id="node21" href="$d0/de5/DataBlock_8h.html" title="MCHRawEncoder/DataBlock.h" alt="" coords="1755,199,1970,225"/>
+<area shape="rect" id="node23" href="$d6/d32/MUON_2MCH_2Raw_2Encoder_2include_2MCHRawEncoder_2Encoder_8h.html" title="MCHRawEncoder/Encoder.h" alt="" coords="2298,124,2496,151"/>
+<area shape="rect" id="node8" href="$d0/d5b/SampaCluster_8h.html" title="MCHRawCommon/SampaCluster.h" alt="" coords="1434,199,1680,225"/>
+<area shape="rect" id="node10" href="$d0/d64/DataFormats_8h.html" title="MCHRawCommon/DataFormats.h" alt="" coords="379,199,618,225"/>
+<area shape="rect" id="node16" href="$d7/d42/MoveBuffer_8h.html" title="MoveBuffer.h" alt="" coords="1021,199,1128,225"/>
+<area shape="rect" id="node18" href="$df/d0f/ElinkEncoder_8h.html" title="ElinkEncoder.h" alt="" coords="880,199,997,225"/>
+<area shape="rect" id="node20" href="$da/d93/ElinkEncoderMerger_8h.html" title="ElinkEncoderMerger.h" alt="" coords="693,199,856,225"/>
+<area shape="rect" id="node26" href="$d4/d09/DsElecId_8h.html" title="MCHRawElecMap/DsElecId.h" alt="" coords="2350,199,2556,225"/>
+</map>

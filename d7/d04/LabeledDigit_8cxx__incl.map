@@ -1,0 +1,9 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/EMCAL/simulation/src/LabeledDigit.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/EMCAL/simulation/src/LabeledDigit.cxx">
+<area shape="rect" id="node2" href="$d2/d41/LabeledDigit_8h.html" title="EMCALSimulation/LabeledDigit.h" alt="" coords="231,124,466,151"/>
+<area shape="rect" id="node6" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="648,281,897,307"/>
+<area shape="rect" id="node8" href="$dd/dda/DataFormats_2Detectors_2EMCAL_2include_2DataFormatsEMCAL_2Constants_8h.html" title="DataFormatsEMCAL/Constants.h" alt="" coords="174,281,405,307"/>
+<area shape="rect" id="node11" href="$d3/d6e/DataFormats_2Detectors_2EMCAL_2include_2DataFormatsEMCAL_2Digit_8h.html" title="DataFormatsEMCAL/Digit.h" alt="" coords="318,199,515,225"/>
+<area shape="rect" id="node13" href="$d3/dc8/DataFormats_2Detectors_2EMCAL_2include_2DataFormatsEMCAL_2MCLabel_8h.html" title="DataFormatsEMCAL/MCLabel.h" alt="" coords="810,199,1031,225"/>
+<area shape="rect" id="node7" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="689,363,856,389"/>
+<area shape="rect" id="node14" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="921,273,1090,315"/>
+</map>

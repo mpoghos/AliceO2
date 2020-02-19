@@ -1,0 +1,5 @@
+<map id="o2::InteractionRecord" name="o2::InteractionRecord">
+<area shape="rect" id="node2" href="$db/dc7/structo2_1_1globaltracking_1_1InteractionCandidate.html" title="{o2::globaltracking\l::InteractionCandidate\n|+ timeBins\l+ rofITS\l+ flag\l+ clRefPtr\l|+ InteractionCandidate()\l+ InteractionCandidate()\l}" alt="" coords="5,673,188,824"/>
+<area shape="rect" id="node3" href="$d8/d98/structo2_1_1InteractionTimeRecord.html" title="{o2::InteractionTimeRecord\n|+ timeNS\l|+ InteractionTimeRecord()\l+ InteractionTimeRecord()\l+ InteractionTimeRecord()\l+ setFromNS()\l+ clear()\l+ print()\l+ ClassDefNV()\l}" alt="" coords="213,666,407,831"/>
+<area shape="rect" id="node4" href="$dd/d2e/structo2_1_1zdc_1_1Digitizer_1_1BCCache.html" title="{o2::zdc::Digitizer\l::BCCache\n|+ data\l+ labels\l+ digitized\l+ triggerChecked\l+ trigChanMask\l+ AllChannelsMask\l|+ BCCache()\l+ clear()\l+ operator=()\l+ print()\l}" alt="" coords="432,644,580,853"/>
+</map>

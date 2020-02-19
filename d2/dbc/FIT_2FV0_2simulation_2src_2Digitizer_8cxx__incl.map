@@ -1,0 +1,24 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/FV0/simulation/src/Digitizer.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/FV0/simulation/src/Digitizer.cxx">
+<area shape="rect" id="node2" href="$d6/d82/FIT_2FV0_2simulation_2include_2FV0Simulation_2Digitizer_8h.html" title="FV0Simulation/Digitizer.h" alt="" coords="2954,124,3141,151"/>
+<area shape="rect" id="node3" href="$d1/dfc/Detectors_2FIT_2FV0_2simulation_2include_2FV0Simulation_2MCLabel_8h.html" title="FV0Simulation/MCLabel.h" alt="" coords="153,206,339,233"/>
+<area shape="rect" id="node7" href="$de/d51/FV0_2simulation_2include_2FV0Simulation_2DigitizationParameters_8h.html" title="FV0Simulation/Digitization\lParameters.h" alt="" coords="3225,199,3419,240"/>
+<area shape="rect" id="node8" href="$d0/def/FIT_2FV0_2include_2DataFormatsFV0_2ChannelData_8h.html" title="DataFormatsFV0/ChannelData.h" alt="" coords="2015,206,2245,233"/>
+<area shape="rect" id="node10" href="$d7/d54/FIT_2FV0_2include_2DataFormatsFV0_2BCData_8h.html" title="DataFormatsFV0/BCData.h" alt="" coords="519,206,714,233"/>
+<area shape="rect" id="node11" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="967,288,1199,329"/>
+<area shape="rect" id="node18" href="$d5/d26/FIT_2FV0_2simulation_2include_2FV0Simulation_2Detector_8h.html" title="FV0Simulation/Detector.h" alt="" coords="2954,206,3141,233"/>
+<area shape="rect" id="node59" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="3871,288,4040,329"/>
+<area shape="rect" id="node64" href="$db/dac/RandomRing_8h.html" title="MathUtils/RandomRing.h" alt="" coords="3444,206,3627,233"/>
+<area shape="rect" id="node4" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="5,288,175,329"/>
+<area shape="rect" id="node5" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="356,385,523,411"/>
+<area shape="rect" id="node16" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="299,295,579,322"/>
+<area shape="rect" id="node15" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="705,385,958,411"/>
+<area shape="rect" id="node20" href="$d7/dd7/DataFormats_2Detectors_2FIT_2FV0_2include_2DataFormatsFV0_2Hit_8h.html" title="DataFormatsFV0/Hit.h" alt="" coords="2793,295,2958,322"/>
+<area shape="rect" id="node21" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="3065,377,3235,419"/>
+<area shape="rect" id="node40" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="2183,295,2371,322"/>
+<area shape="rect" id="node56" href="$d8/de0/FIT_2FV0_2base_2include_2FV0Base_2Geometry_8h.html" title="FV0Base/Geometry.h" alt="" coords="3187,295,3345,322"/>
+<area shape="rect" id="node33" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="2611,385,2825,411"/>
+<area shape="rect" id="node22" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="3060,467,3240,493"/>
+<area shape="rect" id="node29" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="2576,549,2756,575"/>
+<area shape="rect" id="node34" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="2065,467,2275,493"/>
+<area shape="rect" id="node47" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="1273,385,1515,411"/>
+</map>

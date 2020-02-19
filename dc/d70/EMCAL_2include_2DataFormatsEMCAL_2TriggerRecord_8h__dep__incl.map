@@ -1,0 +1,9 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/EMCAL/include/DataFormatsEMCAL/TriggerRecord.h" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/EMCAL/include/DataFormatsEMCAL/TriggerRecord.h">
+<area shape="rect" id="node2" href="$d0/d2b/EMCAL_2src_2TriggerRecord_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/DataFormats/Detectors\l/EMCAL/src/TriggerRecord.cxx" alt="" coords="5,139,217,209"/>
+<area shape="rect" id="node3" href="$df/da7/RawWriter_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/EMCAL/simulation\l/include/EMCALSimulation/RawWriter.h" alt="" coords="241,139,515,209"/>
+<area shape="rect" id="node5" href="$d5/d9b/EMCALDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/EMCALDigitizerSpec.cxx" alt="" coords="539,139,745,209"/>
+<area shape="rect" id="node6" href="$df/d33/EMCALDigitWriterSpec_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/EMCALDigitWriterSpec.h" alt="" coords="769,139,976,209"/>
+<area shape="rect" id="node4" href="$d3/deb/RawWriter_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/EMCAL/simulation\l/src/RawWriter.cxx" alt="" coords="273,257,483,328"/>
+<area shape="rect" id="node7" href="$d9/db2/EMCALDigitWriterSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/EMCALDigitWriterSpec.cxx" alt="" coords="635,257,857,328"/>
+<area shape="rect" id="node8" href="$d2/dd7/SimpleDigitizerWorkflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/SimpleDigitizerWorkflow.cxx" alt="" coords="881,257,1115,328"/>
+</map>

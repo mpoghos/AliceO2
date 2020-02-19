@@ -1,0 +1,5 @@
+<map id="IteratorBase" name="IteratorBase">
+<area shape="rect" id="node2" href="$de/d5f/classo2_1_1algorithm_1_1PageParser_1_1Iterator.html" title="{o2::algorithm::PageParser\l\&lt; T \&gt;::Iterator\n||+ Iterator()\l+ Iterator()\l+ ~Iterator()\l+ operator++()\l+ operator++()\l+ operator*()\l+ operator==()\l+ operator!=()\l+ getGroupHeader()\l}" alt="" coords="5,160,193,369"/>
+<area shape="rect" id="node3" href="$d0/d76/classo2_1_1framework_1_1InputRecord_1_1Iterator.html" title="{o2::framework::InputRecord\l::Iterator\&lt; T \&gt;\n||+ Iterator()\l+ Iterator()\l+ ~Iterator()\l+ operator++()\l+ operator++()\l+ operator*()\l+ operator==()\l+ operator!=()\l+ matches()\l+ matches()\l+ matches()\l}" alt="" coords="218,145,421,384"/>
+<area shape="rect" id="node4" href="$d6/d9f/classo2_1_1framework_1_1RawParser_1_1Iterator.html" title="{o2::framework::RawParser\l\&lt; T \&gt;::Iterator\n||+ Iterator()\l+ Iterator()\l+ ~Iterator()\l+ operator++()\l+ operator++()\l+ operator*()\l+ operator==()\l+ operator!=()\l+ raw()\l+ data()\l+ offset()\l+ size()\l+ get_if()\l}" alt="" coords="445,131,639,399"/>
+</map>

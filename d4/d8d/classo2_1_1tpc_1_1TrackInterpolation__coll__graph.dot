@@ -1,0 +1,8 @@
+digraph "o2::tpc::TrackInterpolation"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{o2::tpc::TrackInterpolation\n||+ TrackInterpolation()\l+ init()\l+ process()\l+ extrapolateTrackITS()\l+ interpolateTrackITSTOF()\l+ trackPassesQualityCuts()\l+ loadEntryForTrees()\l+ attachInputTrees()\l+ prepareOutputTrees()\l+ reset()\l+ setInputTreeITSTPCTracks()\l+ setInputTreeTPCTracks()\l+ setInputTPCClustersReader()\l+ setInputTreeITSTracks()\l+ setInputTreeITSClusters()\l+ setInputTreeTOFMatches()\l+ setInputTreeTOFClusters()\l+ setOutputTreeTracks()\l+ setOutputTreeResiduals()\l+ setMaxSnp()\l+ setMaxStep()\l+ setMatCorr()\l+ setDoITSOnlyTracks()\l+ setITSTPCTrackBranchName()\l+ setTPCTrackBranchName()\l+ setTPCTrackClIdxBranchName()\l+ setTPCClusterFileName()\l+ setITSTrackBranchName()\l+ setITSClusterBranchName()\l+ setTOFMatchingBranchName()\l+ setTOFClusterBranchName()\l+ getITSTPCTrackBranchName()\l+ getTPCTrackBranchName()\l+ getTPCTrackClIdxBranchName()\l+ getTPCClusterFileName()\l+ getITSTrackBranchName()\l+ getITSClusterBranchName()\l+ getTOFMatchingBranchName()\l+ getTOFClusterBranchName()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+}

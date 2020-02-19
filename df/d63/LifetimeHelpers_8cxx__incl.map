@@ -1,0 +1,21 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/src/LifetimeHelpers.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/src/LifetimeHelpers.cxx">
+<area shape="rect" id="node2" href="$d6/dc9/DataProcessingHeader_8h.html" title="Framework/DataProcessing\lHeader.h" alt="" coords="2321,288,2520,329"/>
+<area shape="rect" id="node3" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="2200,377,2369,404"/>
+<area shape="rect" id="node15" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="2341,124,2516,151"/>
+<area shape="rect" id="node19" href="$d4/d00/Headers_2include_2Headers_2Stack_8h.html" title="Headers/Stack.h" alt="" coords="1650,295,1778,322"/>
+<area shape="rect" id="node20" href="$dc/d03/MemoryResources_8h.html" title="MemoryResources/MemoryResources.h" alt="" coords="1475,377,1751,404"/>
+<area shape="rect" id="node38" href="$d8/deb/LifetimeHelpers_8h.html" title="Framework/LifetimeHelpers.h" alt="" coords="2824,124,3039,151"/>
+<area shape="rect" id="node43" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="3348,124,3501,151"/>
+<area shape="rect" id="node44" href="$d9/d66/RawDeviceService_8h.html" title="Framework/RawDeviceService.h" alt="" coords="3525,124,3756,151"/>
+<area shape="rect" id="node45" href="$d8/d17/ServiceRegistry_8h.html" title="Framework/ServiceRegistry.h" alt="" coords="3523,206,3732,233"/>
+<area shape="rect" id="node51" href="$d4/def/TimesliceIndex_8h.html" title="Framework/TimesliceIndex.h" alt="" coords="3115,124,3324,151"/>
+<area shape="rect" id="node12" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="2015,459,2210,486"/>
+<area shape="rect" id="node16" href="$dc/dca/Lifetime_8h.html" title="Framework/Lifetime.h" alt="" coords="3107,295,3271,322"/>
+<area shape="rect" id="node17" href="$d0/d1b/ConcreteDataMatcher_8h.html" title="Framework/ConcreteDataMatcher.h" alt="" coords="1853,295,2103,322"/>
+<area shape="rect" id="node18" href="$d3/da3/DataDescriptorMatcher_8h.html" title="Framework/DataDescriptor\lMatcher.h" alt="" coords="2592,199,2788,240"/>
+<area shape="rect" id="node39" href="$d2/dd9/ExpirationHandler_8h.html" title="Framework/ExpirationHandler.h" alt="" coords="3105,206,3331,233"/>
+<area shape="rect" id="node41" href="$d9/d32/PartRef_8h.html" title="Framework/PartRef.h" alt="" coords="2445,377,2599,404"/>
+<area shape="rect" id="node46" href="$d9/de8/CompilerBuiltins_8h.html" title="Framework/CompilerBuiltins.h" alt="" coords="3791,295,4010,322"/>
+<area shape="rect" id="node47" href="$d2/d9a/TypeIdHelpers_8h.html" title="Framework/TypeIdHelpers.h" alt="" coords="4197,295,4399,322"/>
+<area shape="rect" id="node48" href="$db/dff/StringHelpers_8h.html" title="Framework/StringHelpers.h" alt="" coords="4197,377,4396,404"/>
+</map>

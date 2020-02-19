@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$dd/d93/structo2_1_1mch_1_1raw_1_1NamedState.html" title="o2::mch::raw::NamedState" alt="" coords="108,107,303,133"/>
+<area shape="rect" id="node3" href="$d8/d68/structo2_1_1mch_1_1raw_1_1WaitingHeader.html" title="o2::mch::raw::WaitingHeader" alt="" coords="351,5,561,32"/>
+<area shape="rect" id="node4" href="$d1/dc8/structo2_1_1mch_1_1raw_1_1WaitingSample.html" title="o2::mch::raw::WaitingSample" alt="" coords="351,56,561,83"/>
+<area shape="rect" id="node5" href="$dd/d9d/structo2_1_1mch_1_1raw_1_1WaitingSize.html" title="o2::mch::raw::WaitingSize" alt="" coords="361,107,551,133"/>
+<area shape="rect" id="node6" href="$d7/dfe/structo2_1_1mch_1_1raw_1_1WaitingSync.html" title="o2::mch::raw::WaitingSync" alt="" coords="359,157,553,184"/>
+<area shape="rect" id="node7" href="$d7/df3/structo2_1_1mch_1_1raw_1_1WaitingTime.html" title="o2::mch::raw::WaitingTime" alt="" coords="359,208,553,235"/>
+</map>

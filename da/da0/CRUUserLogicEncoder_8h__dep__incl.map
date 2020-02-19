@@ -1,0 +1,8 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Raw/include/MIDRaw/CRUUserLogicEncoder.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Raw/include/MIDRaw/CRUUserLogicEncoder.h">
+<area shape="rect" id="node2" href="$db/de0/MUON_2MID_2Raw_2include_2MIDRaw_2Encoder_8h.html" title="MID raw data encoder. " alt="" coords="332,124,529,195"/>
+<area shape="rect" id="node7" href="$de/da7/CRUUserLogicEncoder_8cxx.html" title="Raw data encoder for MID CRU user logic. " alt="" coords="553,124,772,195"/>
+<area shape="rect" id="node3" href="$d8/dc6/MUON_2MID_2Raw_2src_2Encoder_8cxx.html" title="MID raw data encoder. " alt="" coords="5,243,200,313"/>
+<area shape="rect" id="node4" href="$d5/d52/bench__Raw_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MID/Raw\l/test/bench_Raw.cxx" alt="" coords="224,243,419,313"/>
+<area shape="rect" id="node5" href="$d8/d4c/testRaw_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MID/Raw\l/test/testRaw.cxx" alt="" coords="443,243,637,313"/>
+<area shape="rect" id="node6" href="$db/dd6/RawWriterSpec_8cxx.html" title="Digits to raw converter spec for MID. " alt="" coords="661,243,888,313"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Raw/Encoder" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Raw/Encoder">
+<area shape="rect" id="node2" href="dir_5e12286f11eb977da30d302c93dbd5d0.html" title="include" alt="" coords="139,159,211,207"/>
+<area shape="rect" id="node5" href="dir_0cfbacb297625179725e3de4f30c0e94.html" title="ElecMap" alt="" coords="97,255,173,303"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000521_000402.html" title="1" alt="" coords="155,233,164,248"/>
+<area shape="rect" id="node6" href="dir_55964488a5749f1fcba45aaf4e122cee.html" title="Common" alt="" coords="182,447,263,495"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000521_000513.html" title="1" alt="" coords="219,420,229,435"/>
+<area shape="rect" id="node3" href="dir_2ef0ee86fbed2ceff25db7389dceac19.html" title="Payload" alt="" coords="38,63,111,111"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000523_000521.html" title="7" alt="" coords="138,132,147,147"/>
+<area shape="rect" id="node4" href="dir_73a2990d2d1f2bd930bc27bf45f6b0c9.html" title="testdata" alt="" coords="243,159,319,207"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000523_000525.html" title="1" alt="" coords="225,143,235,158"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000523_000402.html" title="1" alt="" coords="125,227,134,242"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000523_000513.html" title="18" alt="" coords="255,431,272,446"/>
+<area shape="rect" id="node7" href="dir_cfadcf1c28477e06298c128044978e91.html" title="ImplHelpers" alt="" coords="84,351,185,399"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000523_000524.html" title="16" alt="" coords="99,324,117,338"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000525_000513.html" title="2" alt="" coords="235,423,244,438"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000402_000524.html" title="3" alt="" coords="138,325,148,339"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000513_000524.html" title="2" alt="" coords="167,410,176,425"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000524_000513.html" title="2" alt="" coords="181,420,190,435"/>
+<area shape="rect" id="clust2" href="dir_934398cf98861ce15dff28db7cb4f35f.html" alt="" coords="27,52,221,217"/>
+<area shape="rect" id="clust1" href="dir_f8de85f281636d081fd2e7e06b0134d2.html" title="Raw" alt="" coords="16,16,232,228"/>
+</map>

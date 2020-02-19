@@ -1,0 +1,13 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/EMCAL/simulation/include/EMCALSimulation/RawWriter.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/EMCAL/simulation/include/EMCALSimulation/RawWriter.h">
+<area shape="rect" id="node9" href="$d1/d7a/EMCAL_2base_2include_2EMCALBase_2Mapper_8h.html" title="EMCALBase/Mapper.h" alt="" coords="382,131,543,158"/>
+<area shape="rect" id="node19" href="$d4/d93/DMAOutputStream_8h.html" title="EMCALSimulation/DMAOutput\lStream.h" alt="" coords="1142,124,1357,165"/>
+<area shape="rect" id="node22" href="$d3/d6e/DataFormats_2Detectors_2EMCAL_2include_2DataFormatsEMCAL_2Digit_8h.html" title="DataFormatsEMCAL/Digit.h" alt="" coords="2519,131,2716,158"/>
+<area shape="rect" id="node27" href="$d9/d38/EMCAL_2include_2DataFormatsEMCAL_2TriggerRecord_8h.html" title="DataFormatsEMCAL/Trigger\lRecord.h" alt="" coords="1842,124,2041,165"/>
+<area shape="rect" id="node18" href="$dd/dda/DataFormats_2Detectors_2EMCAL_2include_2DataFormatsEMCAL_2Constants_8h.html" title="DataFormatsEMCAL/Constants.h" alt="" coords="1146,221,1377,247"/>
+<area shape="rect" id="node21" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="1451,221,1650,247"/>
+<area shape="rect" id="node24" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="2705,221,2954,247"/>
+<area shape="rect" id="node25" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2189,303,2355,329"/>
+<area shape="rect" id="node28" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="1825,213,2057,255"/>
+<area shape="rect" id="node30" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="2132,221,2412,247"/>
+<area shape="rect" id="node29" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="1716,303,1969,329"/>
+</map>

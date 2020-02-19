@@ -1,0 +1,9 @@
+<map id="o2::tof::Compressor" name="o2::tof::Compressor">
+<area shape="rect" id="node2" href="$d1/dc5/structo2_1_1tof_1_1Compressor_1_1CheckerSummary__t.html" title="{o2::tof::Compressor\l::CheckerSummary_t\n||}" alt="" coords="879,380,1038,472"/>
+<area shape="rect" id="node5" href="$d7/d35/structo2_1_1tof_1_1Compressor_1_1DecoderSummary__t.html" title="{o2::tof::Compressor\l::DecoderSummary_t\n|+ drmDataTrailer\l+ trmDataTrailer\l+ trmChainHeader\l+ trmChainTrailer\l|}" alt="" coords="1239,358,1398,494"/>
+<area shape="rect" id="node8" href="$d9/d53/structo2_1_1tof_1_1Compressor_1_1TRMChainCounters__t.html" title="{o2::tof::Compressor\l::TRMChainCounters_t\n||}" alt="" coords="5,380,171,472"/>
+<area shape="rect" id="node9" href="$d7/d0a/structo2_1_1tof_1_1Compressor_1_1TRMCounters__t.html" title="{o2::tof::Compressor\l::TRMCounters_t\n||}" alt="" coords="229,380,379,472"/>
+<area shape="rect" id="node12" href="$de/d81/structo2_1_1tof_1_1Compressor_1_1DRMCounters__t.html" title="{o2::tof::Compressor\l::DRMCounters_t\n||}" alt="" coords="421,380,571,472"/>
+<area shape="rect" id="node15" href="$d0/d5f/structo2_1_1tof_1_1Compressor_1_1SpiderSummary__t.html" title="{o2::tof::Compressor\l::SpiderSummary_t\n||}" alt="" coords="1063,380,1214,472"/>
+<area shape="rect" id="node17" href="$d8/d47/structo2_1_1header_1_1RAWDataHeaderV4.html" title="{o2::header::RAWDataHeaderV4\n|+ word0\l+ blockLength\l+ zero0\l+ word1\l+ word2\l+ word3\l+ word4\l+ heartbeatBC\l+ zero42\l+ word5\l+ word6\l+ detectorField\l+ stop\l+ pageCnt\l|}" alt="" coords="1913,292,2135,560"/>
+</map>

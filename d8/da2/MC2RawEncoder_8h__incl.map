@@ -1,0 +1,22 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/simulation/include/ITSMFTSimulation/MC2RawEncoder.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/simulation/include/ITSMFTSimulation/MC2RawEncoder.h">
+<area shape="rect" id="node3" href="$dd/db8/RawPixelReader_8h.html" title="Definition of the Alpide pixel reader for raw data processing. " alt="" coords="1964,139,2128,180"/>
+<area shape="rect" id="node26" href="$d3/d57/ChipMappingITS_8h.html" title="ITSMFTReconstruction\l/ChipMappingITS.h" alt="" coords="1009,228,1173,269"/>
+<area shape="rect" id="node31" href="$d8/da2/AlpideCoder_8h.html" title="class for the ALPIDE data decoding/encoding " alt="" coords="1620,228,1784,269"/>
+<area shape="rect" id="node48" href="$d0/d6b/ChipMappingMFT_8h.html" title="ITSMFTReconstruction\l/ChipMappingMFT.h" alt="" coords="1197,228,1361,269"/>
+<area shape="rect" id="node49" href="$da/d08/RawFileWriter_8h.html" title="Utility class to write detectors data to (multiple) raw data file(s) respecting CRU format..." alt="" coords="515,235,732,262"/>
+<area shape="rect" id="node4" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="5,414,204,441"/>
+<area shape="rect" id="node6" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="3227,407,3459,448"/>
+<area shape="rect" id="node11" href="$df/d2e/PixelReader_8h.html" title="Abstract class for Alpide data reader class. " alt="" coords="2885,228,3049,269"/>
+<area shape="rect" id="node12" href="$da/d8d/PixelData_8h.html" title="Transient data classes for single pixel and set of pixels from current chip. " alt="" coords="2388,317,2552,359"/>
+<area shape="rect" id="node35" href="$d0/d35/PayLoadCont_8h.html" title="Declaration of class for continuos buffer of ALPIDE data. " alt="" coords="2193,325,2312,351"/>
+<area shape="rect" id="node37" href="$dd/d86/GBTWord_8h.html" title="ITSMFTReconstruction\l/GBTWord.h" alt="" coords="1465,407,1629,448"/>
+<area shape="rect" id="node38" href="$de/da4/Triggers_8h.html" title="Definition of the 32 Central Trigger System (CTS) Trigger Types defined in https://twiki.cern.ch/twiki/pub/ALICE/NoteForFEDevelopers/CTS_CRU_FE_interface.pdf. " alt="" coords="242,414,455,441"/>
+<area shape="rect" id="node39" href="$d4/d20/PayLoadSG_8h.html" title="Declaration of class for scatter&#45;gather buffer of ALPIDE data. " alt="" coords="1903,317,2067,359"/>
+<area shape="rect" id="node10" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="3033,496,3286,523"/>
+<area shape="rect" id="node17" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="3036,317,3205,359"/>
+<area shape="rect" id="node19" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="2720,317,2889,359"/>
+<area shape="rect" id="node13" href="$d3/d1e/DataFormats_2Detectors_2ITSMFT_2common_2include_2DataFormatsITSMFT_2Digit_8h.html" title="DataFormatsITSMFT/Digit.h" alt="" coords="2421,414,2620,441"/>
+<area shape="rect" id="node18" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="3036,414,3203,441"/>
+<area shape="rect" id="node30" href="$dc/dd8/RUInfo_8h.html" title="ITSMFTReconstruction\l/RUInfo.h" alt="" coords="1065,317,1229,359"/>
+<area shape="rect" id="node52" href="$d1/dec/HBFUtils_8h.html" title="DetectorsRaw/HBFUtils.h" alt="" coords="531,325,716,351"/>
+</map>

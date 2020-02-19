@@ -1,0 +1,19 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/reconstruction/include/ITSMFTReconstruction/DigitPixelReader.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/common/reconstruction/include/ITSMFTReconstruction/DigitPixelReader.h">
+<area shape="rect" id="node2" href="$df/d2e/PixelReader_8h.html" title="Abstract class for Alpide data reader class. " alt="" coords="717,153,881,195"/>
+<area shape="rect" id="node4" href="$da/d8d/PixelData_8h.html" title="Transient data classes for single pixel and set of pixels from current chip. " alt="" coords="777,243,941,284"/>
+<area shape="rect" id="node5" href="$d3/d1e/DataFormats_2Detectors_2ITSMFT_2common_2include_2DataFormatsITSMFT_2Digit_8h.html" title="DataFormatsITSMFT/Digit.h" alt="" coords="90,339,289,366"/>
+<area shape="rect" id="node14" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="481,243,650,284"/>
+<area shape="rect" id="node16" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="1122,243,1292,284"/>
+<area shape="rect" id="node24" href="$d0/dc6/ITSMFT_2common_2include_2DataFormatsITSMFT_2ROFRecord_8h.html" title="DataFormatsITSMFT/ROFRecord.h" alt="" coords="282,161,521,187"/>
+<area shape="rect" id="node27" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="1726,243,1954,284"/>
+<area shape="rect" id="node7" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="555,332,787,373"/>
+<area shape="rect" id="node11" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="544,421,798,448"/>
+<area shape="rect" id="node15" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="313,339,480,366"/>
+<area shape="rect" id="node25" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="126,250,406,277"/>
+<area shape="rect" id="node30" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="1903,339,2034,366"/>
+<area shape="rect" id="node31" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1805,496,1948,523"/>
+<area shape="rect" id="node34" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="1532,421,1685,448"/>
+<area shape="rect" id="node36" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="1710,421,1968,448"/>
+<area shape="rect" id="node32" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="1675,571,1872,597"/>
+<area shape="rect" id="node33" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1896,571,2062,597"/>
+</map>

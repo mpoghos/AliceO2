@@ -1,0 +1,32 @@
+digraph "/home/travis/build/AliceO2Group/AliceO2/Utilities/Mergers/include/Mergers/MergerConfig.h"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="/home/travis/build\l/AliceO2Group/AliceO2\l/Utilities/Mergers/include\l/Mergers/MergerConfig.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="/home/travis/build\l/AliceO2Group/AliceO2\l/Utilities/Mergers/include\l/Mergers/Merger.h",height=0.2,width=0.4,color="black",URL="$d8/dc0/Merger_8h.html",tooltip="Definition of O2 Merger, v0.1. "];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="/home/travis/build\l/AliceO2Group/AliceO2\l/Utilities/Mergers/src\l/Merger.cxx",height=0.2,width=0.4,color="black",URL="$d6/d12/Merger_8cxx.html",tooltip="Implementation of O2 Mergers, v0.1. "];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="/home/travis/build\l/AliceO2Group/AliceO2\l/Utilities/Mergers/src\l/MergerBuilder.cxx",height=0.2,width=0.4,color="black",URL="$d8/d56/MergerBuilder_8cxx.html",tooltip="Definition of MergerBuilder for O2 Mergers. "];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="/home/travis/build\l/AliceO2Group/AliceO2\l/Utilities/Mergers/src\l/MergerInfrastructureBuilder.cxx",height=0.2,width=0.4,color="black",URL="$d4/dda/MergerInfrastructureBuilder_8cxx.html",tooltip="Definition of Mergers&#39; Infrastructure Builder. "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="/home/travis/build\l/AliceO2Group/AliceO2\l/Utilities/Mergers/include\l/Mergers/MergerBuilder.h",height=0.2,width=0.4,color="black",URL="$d4/df8/MergerBuilder_8h.html"];
+  Node6 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="/home/travis/build\l/AliceO2Group/AliceO2\l/Utilities/Mergers/src\l/mergersBenchmarkTopology.cxx",height=0.2,width=0.4,color="black",URL="$dc/daf/mergersBenchmarkTopology_8cxx.html",tooltip="This is a DPL workflow to benchmark Mergers. "];
+  Node6 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="/home/travis/build\l/AliceO2Group/AliceO2\l/Utilities/Mergers/src\l/mergersTopologyExample.cxx",height=0.2,width=0.4,color="black",URL="$d9/de7/mergersTopologyExample_8cxx.html",tooltip="This is a DPL workflow to see Mergers in action. "];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="/home/travis/build\l/AliceO2Group/AliceO2\l/Utilities/Mergers/include\l/Mergers/MergerInfrastructureBuilder.h",height=0.2,width=0.4,color="black",URL="$da/d43/MergerInfrastructureBuilder_8h.html",tooltip="Definition of O2 MergerInfrastructureBuilder, v0.1. "];
+  Node9 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="/home/travis/build\l/AliceO2Group/AliceO2\l/Utilities/Mergers/test\l/test_InfrastructureBuilder.cxx",height=0.2,width=0.4,color="black",URL="$d9/db1/test__InfrastructureBuilder_8cxx.html"];
+}

@@ -1,0 +1,5 @@
+<map id="o2::tpc::Digit" name="o2::tpc::Digit">
+<area shape="rect" id="node2" href="$d0/d94/classo2_1_1dataformats_1_1TimeStamp.html" title="{DigitBase\n||+ TimeStamp()\l+ TimeStamp()\l+ getTimeStamp()\l+ setTimeStamp()\l+ operator==()\l}" alt="" coords="57,204,200,340"/>
+<area shape="rect" id="node3" href="$d0/d94/classo2_1_1dataformats_1_1TimeStamp.html" title="{o2::dataformats::TimeStamp\&lt; T \&gt;\n||+ TimeStamp()\l+ TimeStamp()\l+ getTimeStamp()\l+ setTimeStamp()\l+ operator==()\l}" alt="" coords="5,5,252,141"/>
+<area shape="rect" id="node4" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="225,233,275,311"/>
+</map>

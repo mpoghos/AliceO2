@@ -1,0 +1,15 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Mapping/SegContour/src/CathodeSegmentationContours.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Mapping/SegContour/src/CathodeSegmentationContours.cxx">
+<area shape="rect" id="node2" href="$d2/d32/CathodeSegmentationContours_8h.html" title="MCHMappingSegContour\l/CathodeSegmentationContours.h" alt="" coords="539,213,781,255"/>
+<area shape="rect" id="node26" href="$d4/d84/ContourCreator_8h.html" title="MCHContour/ContourCreator.h" alt="" coords="849,139,1066,165"/>
+<area shape="rect" id="node4" href="$db/d08/Contour_8h.html" title="MCHContour/Contour.h" alt="" coords="646,303,815,329"/>
+<area shape="rect" id="node5" href="$dc/ddd/Polygon_8h.html" title="Polygon.h" alt="" coords="857,377,943,404"/>
+<area shape="rect" id="node11" href="$d0/ddc/BBox_8h.html" title="BBox.h" alt="" coords="591,459,659,486"/>
+<area shape="rect" id="node21" href="$df/db6/CathodeSegmentation_8h.html" title="MCHMappingInterface\l/CathodeSegmentation.h" alt="" coords="282,452,465,493"/>
+<area shape="rect" id="node18" href="$dd/dbc/Detectors_2MUON_2MCH_2Contour_2include_2MCHContour_2Vertex_8h.html" title="Vertex.h" alt="" coords="1439,459,1515,486"/>
+<area shape="rect" id="node12" href="$d2/dc4/Helper_8h.html" title="Helper.h" alt="" coords="1335,541,1411,568"/>
+<area shape="rect" id="node22" href="$d0/dc7/CathodeSegmentationCInterface_8h.html" title="CathodeSegmentationCInterface.h" alt="" coords="377,541,623,568"/>
+<area shape="rect" id="node27" href="$dc/d15/ContourCreator_8inl.html" title="ContourCreator.inl" alt="" coords="1033,221,1173,247"/>
+<area shape="rect" id="node28" href="$d5/de0/Edge_8h.html" title="Edge.h" alt="" coords="1444,377,1511,404"/>
+<area shape="rect" id="node30" href="$dc/ded/SegmentTree_8h.html" title="SegmentTree.h" alt="" coords="1141,377,1259,404"/>
+<area shape="rect" id="node29" href="$d1/d55/Interval_8h.html" title="Interval.h" alt="" coords="1331,459,1415,486"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="o2::MCCompLabel" name="o2::MCCompLabel">
+<area shape="rect" id="node2" href="$df/d56/classo2_1_1emcal_1_1MCLabel.html" title="{o2::emcal::MCLabel\n||+ MCLabel()\l+ MCLabel()\l+ MCLabel()\l+ setEnergyFraction()\l+ getEnergyFraction()\l+ ClassDefNV()\l}" alt="" coords="5,681,169,831"/>
+<area shape="rect" id="node3" href="$d1/d1b/classo2_1_1fdd_1_1MCLabel.html" title="{o2::fdd::MCLabel\n||+ MCLabel()\l+ MCLabel()\l+ getDetID()\l+ ClassDefNV()\l}" alt="" coords="194,695,325,817"/>
+<area shape="rect" id="node4" href="$dd/dfd/classo2_1_1ft0_1_1MCLabel.html" title="{o2::ft0::MCLabel\n||+ MCLabel()\l+ MCLabel()\l+ getDetID()\l+ ClassDefNV()\l}" alt="" coords="349,695,476,817"/>
+<area shape="rect" id="node5" href="$d2/d93/classo2_1_1fv0_1_1MCLabel.html" title="{o2::fv0::MCLabel\n||+ MCLabel()\l+ MCLabel()\l+ getChannel()\l+ ClassDefNV()\l}" alt="" coords="501,695,631,817"/>
+<area shape="rect" id="node6" href="$d9/d99/classo2_1_1mid_1_1MCClusterLabel.html" title="{o2::mid::MCClusterLabel\n||+ MCClusterLabel()\l+ MCClusterLabel()\l+ setIsFiredBP()\l+ isFiredBP()\l+ setIsFiredNBP()\l+ isFiredNBP()\l+ ClassDefNV()\l}" alt="" coords="656,673,836,839"/>
+<area shape="rect" id="node7" href="$db/d36/classo2_1_1mid_1_1MCLabel.html" title="{o2::mid::MCLabel\n||+ MCLabel()\l+ MCLabel()\l+ operator==()\l+ setDEId()\l+ getDEId()\l+ setColumnId()\l+ getColumnId()\l+ setCathode()\l+ getCathode()\l+ setFirstStrip()\l+ getFirstStrip()\l+ setLastStrip()\l+ getLastStrip()\l+ ClassDefNV()\l+ getLine()\l+ getStripInLine()\l+ getStrip()\l}" alt="" coords="860,600,997,912"/>
+<area shape="rect" id="node8" href="$d9/d1e/classo2_1_1phos_1_1MCLabel.html" title="{o2::phos::MCLabel\n||+ MCLabel()\l+ MCLabel()\l+ operator==()\l+ operator=()\l+ add()\l+ scale()\l+ getEdep()\l+ ClassDefNV()\l}" alt="" coords="1021,666,1161,846"/>
+<area shape="rect" id="node9" href="$d7/d53/classo2_1_1tof_1_1MCLabel.html" title="{o2::tof::MCLabel\n||+ MCLabel()\l+ MCLabel()\l+ getTDC()\l}" alt="" coords="1185,703,1312,809"/>
+<area shape="rect" id="node10" href="$d6/d3f/classo2_1_1trd_1_1MCLabel.html" title="{o2::trd::MCLabel\n||+ MCLabel()\l+ MCLabel()\l+ ClassDefNV()\l}" alt="" coords="1336,703,1463,809"/>
+<area shape="rect" id="node11" href="$dc/d6f/classo2_1_1zdc_1_1MCLabel.html" title="{o2::zdc::MCLabel\n||+ MCLabel()\l+ MCLabel()\l+ getChannel()\l+ ClassDefNV()\l}" alt="" coords="1487,695,1618,817"/>
+</map>

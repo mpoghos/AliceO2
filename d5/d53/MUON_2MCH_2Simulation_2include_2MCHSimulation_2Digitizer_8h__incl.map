@@ -1,0 +1,12 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Simulation/include/MCHSimulation/Digitizer.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Simulation/include/MCHSimulation/Digitizer.h">
+<area shape="rect" id="node2" href="$d8/d72/Detectors_2MUON_2MCH_2Base_2include_2MCHBase_2Digit_8h.html" title="MCHBase/Digit.h" alt="" coords="1705,303,1836,329"/>
+<area shape="rect" id="node4" href="$d5/daf/Detectors_2MUON_2MCH_2Simulation_2include_2MCHSimulation_2Hit_8h.html" title="MCHSimulation/Hit.h" alt="" coords="1368,131,1525,158"/>
+<area shape="rect" id="node24" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1550,124,1719,165"/>
+<area shape="rect" id="node26" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="2329,124,2498,165"/>
+<area shape="rect" id="node5" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="1013,213,1182,255"/>
+<area shape="rect" id="node17" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="1795,221,2008,247"/>
+<area shape="rect" id="node6" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="845,303,1025,329"/>
+<area shape="rect" id="node14" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="733,385,913,411"/>
+<area shape="rect" id="node18" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="1897,303,2108,329"/>
+<area shape="rect" id="node25" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1514,303,1681,329"/>
+</map>

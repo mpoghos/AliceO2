@@ -1,0 +1,9 @@
+<map id="o2::experimental::mergers::ConfigEntry&lt; V, P &gt;" name="o2::experimental::mergers::ConfigEntry&lt; V, P &gt;">
+<area shape="rect" id="node2" href="$d3/d80/structo2_1_1experimental_1_1mergers_1_1ConfigEntry.html" title="{o2::experimental::mergers\l::ConfigEntry\&lt; MergingMode \&gt;\n|+ value\l+ param\l|}" alt="" coords="5,175,228,281"/>
+<area shape="rect" id="node3" href="$d3/d80/structo2_1_1experimental_1_1mergers_1_1ConfigEntry.html" title="{o2::experimental::mergers\l::ConfigEntry\&lt; MergingTime \&gt;\n|+ value\l+ param\l|}" alt="" coords="252,175,472,281"/>
+<area shape="rect" id="node4" href="$d3/d80/structo2_1_1experimental_1_1mergers_1_1ConfigEntry.html" title="{o2::experimental::mergers\l::ConfigEntry\&lt; TopologySize, int \&gt;\n|+ value\l+ param\l|}" alt="" coords="497,175,742,281"/>
+<area shape="rect" id="node5" href="$d3/d80/structo2_1_1experimental_1_1mergers_1_1ConfigEntry.html" title="{o2::experimental::mergers\l::ConfigEntry\&lt; PublicationDecision \&gt;\n|+ value\l+ param\l|}" alt="" coords="767,175,1029,281"/>
+<area shape="rect" id="node6" href="$d3/d80/structo2_1_1experimental_1_1mergers_1_1ConfigEntry.html" title="{o2::experimental::mergers\l::ConfigEntry\&lt; UnpackingMethod \&gt;\n|+ value\l+ param\l|}" alt="" coords="1053,175,1305,281"/>
+<area shape="rect" id="node7" href="$d3/d80/structo2_1_1experimental_1_1mergers_1_1ConfigEntry.html" title="{o2::experimental::mergers\l::ConfigEntry\&lt; Timespan \&gt;\n|+ value\l+ param\l|}" alt="" coords="1329,175,1528,281"/>
+<area shape="rect" id="node8" href="$d3/d80/structo2_1_1experimental_1_1mergers_1_1ConfigEntry.html" title="{o2::experimental::mergers\l::ConfigEntry\&lt; OwnershipMode \&gt;\n|+ value\l+ param\l|}" alt="" coords="1552,175,1791,281"/>
+</map>

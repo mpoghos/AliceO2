@@ -1,0 +1,28 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/include/TPCReconstruction/ClustererTask.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/include/TPCReconstruction/ClustererTask.h">
+<area shape="rect" id="node4" href="$d0/d4f/Detectors_2TPC_2base_2include_2TPCBase_2Digit_8h.html" title="TPCBase/Digit.h" alt="" coords="889,139,1016,165"/>
+<area shape="rect" id="node8" href="$de/df6/HwClusterer_8h.html" title="Class for TPC HW cluster finding. " alt="" coords="2036,139,2275,165"/>
+<area shape="rect" id="node13" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="2177,288,2347,329"/>
+<area shape="rect" id="node21" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1181,288,1351,329"/>
+<area shape="rect" id="node56" href="$d9/d7c/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Helpers_8h.html" title="DataFormatsTPC/Helpers.h" alt="" coords="2378,213,2575,240"/>
+<area shape="rect" id="node57" href="$d3/dc4/ClusterHardware_8h.html" title="Class of a TPC cluster as produced by the hardware cluster finder (needs a postprocessing step to con..." alt="" coords="2542,295,2798,322"/>
+<area shape="rect" id="node5" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="541,295,791,322"/>
+<area shape="rect" id="node6" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="168,377,335,404"/>
+<area shape="rect" id="node10" href="$db/db1/TPC_2reconstruction_2include_2TPCReconstruction_2Clusterer_8h.html" title="TPCReconstruction/Clusterer.h" alt="" coords="1783,213,2000,240"/>
+<area shape="rect" id="node22" href="$d6/d2b/TPC_2base_2include_2TPCBase_2CalDet_8h.html" title="TPCBase/CalDet.h" alt="" coords="1375,295,1514,322"/>
+<area shape="rect" id="node27" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="860,825,1037,852"/>
+<area shape="rect" id="node40" href="$d5/d1d/TPC_2base_2include_2TPCBase_2Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="1049,452,1192,479"/>
+<area shape="rect" id="node45" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="587,751,721,777"/>
+<area shape="rect" id="node48" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="717,676,839,703"/>
+<area shape="rect" id="node54" href="$db/d9b/CalArray_8h.html" title="TPCBase/CalArray.h" alt="" coords="1482,377,1631,404"/>
+<area shape="rect" id="node29" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1583,982,1763,1009"/>
+<area shape="rect" id="node32" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="859,900,1039,927"/>
+<area shape="rect" id="node43" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="1046,676,1187,703"/>
+<area shape="rect" id="node44" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="563,601,727,628"/>
+<area shape="rect" id="node47" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="1152,601,1321,628"/>
+<area shape="rect" id="node49" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="666,527,815,553"/>
+<area shape="rect" id="node51" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="1677,751,1821,777"/>
+<area shape="rect" id="node52" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="890,527,1077,553"/>
+<area shape="rect" id="node53" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="1357,527,1532,553"/>
+<area shape="rect" id="node46" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="548,825,760,852"/>
+<area shape="rect" id="node50" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="751,601,874,628"/>
+</map>

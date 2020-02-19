@@ -1,0 +1,36 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/src/DigitTime.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/src/DigitTime.cxx">
+<area shape="rect" id="node2" href="$d0/d60/DigitTime_8h.html" title="Definition of the Time Bin container. " alt="" coords="944,124,1142,151"/>
+<area shape="rect" id="node3" href="$d5/d1d/TPC_2base_2include_2TPCBase_2Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="1869,556,2012,583"/>
+<area shape="rect" id="node33" href="$d5/dcb/DigitGlobalPad_8h.html" title="Definition of the GlobalPad container. " alt="" coords="2028,199,2223,240"/>
+<area shape="rect" id="node46" href="$db/ded/LabelContainer_8h.html" title="SimulationDataFormat\l/LabelContainer.h" alt="" coords="733,377,902,419"/>
+<area shape="rect" id="node76" href="$da/d2a/CommonMode_8h.html" title="TPCSimulation/CommonMode.h" alt="" coords="3488,884,3715,911"/>
+<area shape="rect" id="node9" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="1594,959,1772,985"/>
+<area shape="rect" id="node22" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="1850,802,1991,829"/>
+<area shape="rect" id="node23" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="1989,720,2153,747"/>
+<area shape="rect" id="node24" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="1893,884,2028,911"/>
+<area shape="rect" id="node26" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="1592,720,1761,747"/>
+<area shape="rect" id="node28" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="1852,638,2002,665"/>
+<area shape="rect" id="node30" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="2371,884,2515,911"/>
+<area shape="rect" id="node31" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="1340,638,1527,665"/>
+<area shape="rect" id="node32" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="1602,638,1777,665"/>
+<area shape="rect" id="node10" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="2192,1115,2372,1142"/>
+<area shape="rect" id="node13" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1596,1033,1776,1060"/>
+<area shape="rect" id="node25" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="1854,959,2066,985"/>
+<area shape="rect" id="node27" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="1456,802,1579,829"/>
+<area shape="rect" id="node29" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="1343,720,1466,747"/>
+<area shape="rect" id="node35" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="3361,288,3530,329"/>
+<area shape="rect" id="node37" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="444,377,613,419"/>
+<area shape="rect" id="node48" href="$d0/d4f/Detectors_2TPC_2base_2include_2TPCBase_2Digit_8h.html" title="TPCBase/Digit.h" alt="" coords="3186,295,3313,322"/>
+<area shape="rect" id="node51" href="$d3/d47/ParameterElectronics_8h.html" title="Definition of the parameter class for the detector electronics. " alt="" coords="2784,385,3017,411"/>
+<area shape="rect" id="node60" href="$dd/df5/DigitMCMetaData_8h.html" title="Definition of the Meta Data object of the Monte Carlo Digit. " alt="" coords="3438,795,3642,836"/>
+<area shape="rect" id="node61" href="$d0/d45/SAMPAProcessing_8h.html" title="Definition of the SAMPA response. " alt="" coords="2094,295,2341,322"/>
+<area shape="rect" id="node36" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="3388,474,3554,501"/>
+<area shape="rect" id="node49" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="3201,385,3450,411"/>
+<area shape="rect" id="node52" href="$db/d2c/ConfigurableParam_8h.html" title="SimConfig/ConfigurableParam.h" alt="" coords="2570,556,2796,583"/>
+<area shape="rect" id="node57" href="$da/d6b/ConfigurableParamHelper_8h.html" title="SimConfig/ConfigurableParam\lHelper.h" alt="" coords="2354,467,2569,508"/>
+<area shape="rect" id="node63" href="$d6/d2b/TPC_2base_2include_2TPCBase_2CalDet_8h.html" title="TPCBase/CalDet.h" alt="" coords="1548,385,1687,411"/>
+<area shape="rect" id="node69" href="$db/dac/RandomRing_8h.html" title="MathUtils/RandomRing.h" alt="" coords="2946,474,3129,501"/>
+<area shape="rect" id="node73" href="$db/dad/ParameterDetector_8h.html" title="Definition of the parameter class for the detector. " alt="" coords="2280,385,2497,411"/>
+<area shape="rect" id="node74" href="$db/d5b/ParameterGas_8h.html" title="Definition of the parameter class for the detector gas. " alt="" coords="2522,385,2708,411"/>
+<area shape="rect" id="node67" href="$db/d9b/CalArray_8h.html" title="TPCBase/CalArray.h" alt="" coords="1543,474,1692,501"/>
+</map>

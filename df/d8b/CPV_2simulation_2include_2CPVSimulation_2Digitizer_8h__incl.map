@@ -1,0 +1,15 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/CPV/simulation/include/CPVSimulation/Digitizer.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/CPV/simulation/include/CPVSimulation/Digitizer.h">
+<area shape="rect" id="node2" href="$de/dfb/DataFormats_2Detectors_2CPV_2include_2DataFormatsCPV_2Digit_8h.html" title="DataFormatsCPV/Digit.h" alt="" coords="221,131,399,158"/>
+<area shape="rect" id="node7" href="$de/ddd/CPV_2base_2include_2CPVBase_2Geometry_8h.html" title="CPVBase/Geometry.h" alt="" coords="457,131,616,158"/>
+<area shape="rect" id="node11" href="$dc/d40/CPV_2calib_2include_2CPVCalib_2CalibParams_8h.html" title="CPVCalib/CalibParams.h" alt="" coords="641,131,819,158"/>
+<area shape="rect" id="node14" href="$db/dd0/Detectors_2CPV_2base_2include_2CPVBase_2Hit_8h.html" title="CPVBase/Hit.h" alt="" coords="1038,131,1153,158"/>
+<area shape="rect" id="node34" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="844,124,1013,165"/>
+<area shape="rect" id="node35" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="1736,124,1905,165"/>
+<area shape="rect" id="node4" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="5,221,255,247"/>
+<area shape="rect" id="node5" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="47,303,213,329"/>
+<area shape="rect" id="node15" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="975,213,1144,255"/>
+<area shape="rect" id="node27" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="1183,221,1397,247"/>
+<area shape="rect" id="node16" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="764,303,944,329"/>
+<area shape="rect" id="node24" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="411,385,591,411"/>
+<area shape="rect" id="node28" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="1967,303,2178,329"/>
+</map>

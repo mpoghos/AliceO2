@@ -1,0 +1,7 @@
+<map id="GPUCA_NAMESPACE::gpu::GPUKernelTemplate::GPUSharedMemoryScan64&lt; T, I &gt;" name="GPUCA_NAMESPACE::gpu::GPUKernelTemplate::GPUSharedMemoryScan64&lt; T, I &gt;">
+<area shape="rect" id="node2" href="$dd/deb/structGPUCA__NAMESPACE_1_1gpu_1_1GPUKernelTemplate_1_1GPUSharedMemoryScan64.html" title="{GPUCA_NAMESPACE::gpu\l::GPUKernelTemplate::\lGPUSharedMemoryScan64\l\&lt; int, GPUCA_THREAD_COUNT_SCAN \&gt;\n||}" alt="" coords="5,211,287,333"/>
+<area shape="rect" id="node4" href="$dd/deb/structGPUCA__NAMESPACE_1_1gpu_1_1GPUKernelTemplate_1_1GPUSharedMemoryScan64.html" title="{GPUCA_NAMESPACE::gpu\l::GPUKernelTemplate::\lGPUSharedMemoryScan64\l\&lt; short, GPUCA_THREAD_COUNT\l_CLUSTERER \&gt;\n||}" alt="" coords="311,204,549,340"/>
+<area shape="rect" id="node3" href="$d4/d5e/structGPUCA__NAMESPACE_1_1gpu_1_1GPUTPCCFStreamCompaction_1_1GPUSharedMemory.html" title="{GPUCA_NAMESPACE::gpu\l::GPUTPCCFStreamCompaction\l::GPUSharedMemory\n||}" alt="" coords="34,404,258,511"/>
+<area shape="rect" id="node5" href="$df/d1b/structGPUCA__NAMESPACE_1_1gpu_1_1GPUTPCCFDeconvolution_1_1GPUSharedMemory.html" title="{GPUCA_NAMESPACE::gpu\l::GPUTPCCFDeconvolution\l::GPUSharedMemory\n|+ posBcast1\l+ aboveThresholdBcast\l+ buf\l|}" alt="" coords="308,389,501,525"/>
+<area shape="rect" id="node6" href="$da/d54/structGPUCA__NAMESPACE_1_1gpu_1_1GPUTPCCFPeakFinder_1_1GPUSharedMemory.html" title="{GPUCA_NAMESPACE::gpu\l::GPUTPCCFPeakFinder\l::GPUSharedMemory\n|+ posBcast\l+ buf\l|}" alt="" coords="526,397,713,518"/>
+</map>

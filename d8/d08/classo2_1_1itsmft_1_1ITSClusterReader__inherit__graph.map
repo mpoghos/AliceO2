@@ -1,0 +1,4 @@
+<map id="o2::itsmft::ITSClusterReader" name="o2::itsmft::ITSClusterReader">
+<area shape="rect" id="node2" href="$d1/dc3/classo2_1_1itsmft_1_1ClusterReader.html" title="{o2::itsmft::ClusterReader\n|# mClusROFRec\l# mClusROFRecPtr\l# mClusterArray\l# mClusterArrayPtr\l# mClusterCompArray\l# mClusterCompArrayPtr\l# mClusterMCTruth\l# mClusterMCTruthPtr\l# mOrigin\l# mFinished\l# mUseMC\l# mUseClFull\l# mUseClComp\l# mDetName\l# mDetNameLC\l# mInputFileName\l# mClusTreeName\l# mClusROFBranchName\l# mClusterBranchName\l# mClusterCompBranchName\l# mClustMCTruthBranchName\l|+ ClusterReader()\l+ ClusterReader()\l+ ~ClusterReader()\l+ init()\l+ run()\l# read()\l}" alt="" coords="5,175,224,619"/>
+<area shape="rect" id="node3" href="$de/dac/classo2_1_1framework_1_1Task.html" title="{o2::framework::Task\n||+ ~Task()\l+ init()\l+ run()\l+ endOfStream()\l}" alt="" coords="37,5,192,127"/>
+</map>

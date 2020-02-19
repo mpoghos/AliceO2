@@ -1,0 +1,16 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/simulation/test/MCTrack.cxx" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/simulation/test/MCTrack.cxx">
+<area shape="rect" id="node2" href="$d2/de2/MCTrack_8h.html" title="Definition of the MCTrack class. " alt="" coords="622,213,791,255"/>
+<area shape="rect" id="node3" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="826,303,1054,344"/>
+<area shape="rect" id="node29" href="$d4/d03/simulation_2include_2SimulationDataFormat_2Stack_8h.html" title="SimulationDataFormat\l/Stack.h" alt="" coords="1387,124,1557,165"/>
+<area shape="rect" id="node45" href="$d9/d45/PrimaryChunk_8h.html" title="SimulationDataFormat\l/PrimaryChunk.h" alt="" coords="1933,124,2102,165"/>
+<area shape="rect" id="node10" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="984,392,1115,419"/>
+<area shape="rect" id="node12" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1334,541,1477,568"/>
+<area shape="rect" id="node15" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="1214,467,1367,493"/>
+<area shape="rect" id="node17" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="932,467,1191,493"/>
+<area shape="rect" id="node13" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="1204,616,1401,643"/>
+<area shape="rect" id="node14" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1425,616,1591,643"/>
+<area shape="rect" id="node31" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="1622,213,1791,255"/>
+<area shape="rect" id="node38" href="$d5/dbe/TrackReference_8h.html" title="SimulationDataFormat\l/TrackReference.h" alt="" coords="1387,213,1557,255"/>
+<area shape="rect" id="node41" href="$d6/d9d/MCEventStats_8h.html" title="SimulationDataFormat\l/MCEventStats.h" alt="" coords="2306,303,2475,344"/>
+<area shape="rect" id="node46" href="$d2/d1f/MCEventHeader_8h.html" title="SimulationDataFormat\l/MCEventHeader.h" alt="" coords="2426,213,2595,255"/>
+</map>

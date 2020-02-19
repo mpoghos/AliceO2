@@ -1,0 +1,12 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/base/src/HalfDetector.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/base/src/HalfDetector.cxx">
+<area shape="rect" id="node4" href="$dc/d53/HalfDiskSegmentation_8h.html" title="Class for the description of the structure of a half&#45;disk. " alt="" coords="295,124,537,151"/>
+<area shape="rect" id="node11" href="$d2/d77/HalfSegmentation_8h.html" title="Segmentation class for each half of the ALICE Muon Forward Tracker. " alt="" coords="546,199,761,225"/>
+<area shape="rect" id="node13" href="$d7/d73/HalfDisk_8h.html" title="Class building geometry of one half of an MFT disk. " alt="" coords="1069,348,1221,375"/>
+<area shape="rect" id="node14" href="$d6/d2e/ITSMFT_2MFT_2base_2include_2MFTBase_2Geometry_8h.html" title="MFTBase/Geometry.h" alt="" coords="1179,199,1338,225"/>
+<area shape="rect" id="node15" href="$d3/d4f/HalfDetector_8h.html" title="Class describing geometry of one half of the ALICE Muon Forward Tracker. " alt="" coords="925,124,1104,151"/>
+<area shape="rect" id="node17" href="$dc/d37/PowerSupplyUnit_8h.html" title="MFT heat exchanger builder. " alt="" coords="785,199,991,225"/>
+<area shape="rect" id="node6" href="$d9/de7/LadderSegmentation_8h.html" title="Description of the virtual segmentation of a ladder. " alt="" coords="223,199,454,225"/>
+<area shape="rect" id="node8" href="$d3/de7/VSegmentation_8h.html" title="Abstract base class for MFT Segmentation description. " alt="" coords="154,348,350,375"/>
+<area shape="rect" id="node10" href="$d3/dbd/ChipSegmentation_8h.html" title="Chip (sensor) segmentation description. " alt="" coords="144,273,360,300"/>
+<area shape="rect" id="node12" href="$dd/d83/ITSMFT_2MFT_2base_2include_2MFTBase_2Segmentation_8h.html" title="MFTBase/Segmentation.h" alt="" coords="624,273,811,300"/>
+</map>

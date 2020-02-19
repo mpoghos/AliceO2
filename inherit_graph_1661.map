@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dc/d04/classo2_1_1experimental_1_1mergers_1_1MergeInterface.html" title="Interface allowing custom behaviour of Mergers components. " alt="" coords="5,5,200,47"/>
+<area shape="rect" id="node2" href="$d1/d03/classo2_1_1experimental_1_1mergers_1_1MergeInterfaceOverrideExample.html" title="o2::experimental::mergers\l::MergeInterfaceOverrideExample" alt="" coords="248,5,489,47"/>
+<area shape="rect" id="node3" href="$d5/d0f/classTObject.html" title="TObject" alt="" coords="67,350,139,377"/>
+<area shape="rect" id="node4" href="$d1/d57/classAliHLT3DTrackParam.html" title="AliHLT3DTrackParam" alt="" coords="291,71,446,98"/>
+<area shape="rect" id="node5" href="$de/d1a/classex2_1_1A.html" title="ex2::A" alt="" coords="337,122,400,149"/>
+<area shape="rect" id="node6" href="$dc/d3f/classex3_1_1A.html" title="ex3::A" alt="" coords="337,173,400,199"/>
+<area shape="rect" id="node7" href="$d8/db3/classex4_1_1A.html" title="ex4::A" alt="" coords="337,223,400,250"/>
+<area shape="rect" id="node8" href="$d0/d20/classo2_1_1base_1_1GeometryManager.html" title="o2::base::GeometryManager" alt="" coords="265,274,472,301"/>
+<area shape="rect" id="node9" href="$d5/dd3/classo2_1_1ccdb_1_1IdPath.html" title="o2::ccdb::IdPath" alt="" coords="307,325,431,351"/>
+<area shape="rect" id="node10" href="$d2/d76/classo2_1_1cpv_1_1Digitizer.html" title="o2::cpv::Digitizer" alt="" coords="303,375,434,402"/>
+<area shape="rect" id="node11" href="$d6/d7e/classo2_1_1emcal_1_1Digitizer.html" title="EMCAL FEE digitizer. " alt="" coords="294,426,443,453"/>
+<area shape="rect" id="node12" href="$d3/d6b/classo2_1_1its_1_1V11Geometry.html" title="o2::its::V11Geometry" alt="" coords="289,477,449,503"/>
+<area shape="rect" id="node16" href="$d9/dc7/classo2_1_1itsmft_1_1ClusterShape.html" title="o2::itsmft::ClusterShape" alt="" coords="279,527,458,554"/>
+<area shape="rect" id="node17" href="$d0/d77/classo2_1_1itsmft_1_1Digitizer.html" title="o2::itsmft::Digitizer" alt="" coords="295,578,443,605"/>
+<area shape="rect" id="node18" href="$db/d73/classo2_1_1phos_1_1Digitizer.html" title="o2::phos::Digitizer" alt="" coords="299,629,439,655"/>
+<area shape="rect" id="node19" href="$d7/d2d/classo2_1_1TObjectWrapper.html" title="o2::TObjectWrapper\&lt; T \&gt;" alt="" coords="275,679,463,706"/>
+<area shape="rect" id="node13" href="$d7/d2d/classo2_1_1its_1_1V1Layer.html" title="o2::its::V1Layer" alt="" coords="547,426,670,453"/>
+<area shape="rect" id="node14" href="$d8/d07/classo2_1_1its_1_1V3Layer.html" title="o2::its::V3Layer" alt="" coords="547,477,670,503"/>
+<area shape="rect" id="node15" href="$de/d18/classo2_1_1its_1_1V3Services.html" title="This class defines the Geometry for the Services of the ITS Upgrade using TGeo. " alt="" coords="537,527,680,554"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/src/HwClusterer.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/src/HwClusterer.cxx">
+<area shape="rect" id="node2" href="$de/df6/HwClusterer_8h.html" title="Class for TPC HW cluster finding. " alt="" coords="1654,124,1893,151"/>
+<area shape="rect" id="node36" href="$d5/d1d/TPC_2base_2include_2TPCBase_2Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="1119,452,1262,479"/>
+<area shape="rect" id="node46" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="611,616,733,643"/>
+<area shape="rect" id="node53" href="$d3/dc4/ClusterHardware_8h.html" title="Class of a TPC cluster as produced by the hardware cluster finder (needs a postprocessing step to con..." alt="" coords="1975,281,2231,307"/>
+<area shape="rect" id="node55" href="$d1/d12/HwClustererParam_8h.html" title="Implementation of the parameter class for the hardware clusterer. " alt="" coords="2601,273,2828,315"/>
+<area shape="rect" id="node64" href="$d0/d4f/Detectors_2TPC_2base_2include_2TPCBase_2Digit_8h.html" title="TPCBase/Digit.h" alt="" coords="2365,124,2491,151"/>
+<area shape="rect" id="node4" href="$db/db1/TPC_2reconstruction_2include_2TPCReconstruction_2Clusterer_8h.html" title="TPCReconstruction/Clusterer.h" alt="" coords="1591,199,1809,225"/>
+<area shape="rect" id="node7" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="1730,273,1899,315"/>
+<area shape="rect" id="node15" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="2357,273,2526,315"/>
+<area shape="rect" id="node52" href="$d9/d7c/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Helpers_8h.html" title="DataFormatsTPC/Helpers.h" alt="" coords="1915,199,2112,225"/>
+<area shape="rect" id="node18" href="$d6/d2b/TPC_2base_2include_2TPCBase_2CalDet_8h.html" title="TPCBase/CalDet.h" alt="" coords="800,281,939,307"/>
+<area shape="rect" id="node16" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2358,370,2525,397"/>
+<area shape="rect" id="node23" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="922,840,1099,867"/>
+<area shape="rect" id="node41" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="590,765,725,792"/>
+<area shape="rect" id="node44" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="851,691,973,717"/>
+<area shape="rect" id="node50" href="$db/d9b/CalArray_8h.html" title="TPCBase/CalArray.h" alt="" coords="987,370,1136,397"/>
+<area shape="rect" id="node25" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1399,997,1579,1023"/>
+<area shape="rect" id="node28" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="918,915,1098,941"/>
+<area shape="rect" id="node39" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="1048,691,1189,717"/>
+<area shape="rect" id="node40" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="809,616,973,643"/>
+<area shape="rect" id="node43" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="1150,616,1319,643"/>
+<area shape="rect" id="node45" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="960,534,1109,561"/>
+<area shape="rect" id="node47" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="1552,765,1696,792"/>
+<area shape="rect" id="node48" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="1235,534,1421,561"/>
+<area shape="rect" id="node49" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="761,534,935,561"/>
+<area shape="rect" id="node42" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="551,840,763,867"/>
+<area shape="rect" id="node56" href="$db/d2c/ConfigurableParam_8h.html" title="SimConfig/ConfigurableParam.h" alt="" coords="2463,452,2689,479"/>
+<area shape="rect" id="node61" href="$da/d6b/ConfigurableParamHelper_8h.html" title="SimConfig/ConfigurableParam\lHelper.h" alt="" coords="2633,363,2847,404"/>
+<area shape="rect" id="node65" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="2303,199,2553,225"/>
+</map>

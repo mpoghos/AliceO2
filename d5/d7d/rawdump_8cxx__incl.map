@@ -1,0 +1,15 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Raw/Tools/rawdump.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Raw/Tools/rawdump.cxx">
+<area shape="rect" id="node2" href="$d1/d53/DumpBuffer_8h.html" title="DumpBuffer.h" alt="" coords="558,206,669,233"/>
+<area shape="rect" id="node14" href="$d4/d78/DataFormats_2Headers_2include_2Headers_2RAWDataHeader_8h.html" title="Headers/RAWDataHeader.h" alt="" coords="1423,288,1622,315"/>
+<area shape="rect" id="node15" href="$d0/d64/DataFormats_8h.html" title="MCHRawCommon/DataFormats.h" alt="" coords="1425,124,1663,151"/>
+<area shape="rect" id="node16" href="$dd/d0d/MUON_2MCH_2Raw_2Decoder_2include_2MCHRawDecoder_2Decoder_8h.html" title="MCHRawDecoder/Decoder.h" alt="" coords="737,124,940,151"/>
+<area shape="rect" id="node23" href="$d2/d71/MUON_2MCH_2Raw_2ElecMap_2include_2MCHRawElecMap_2Mapper_8h.html" title="MCHRawElecMap/Mapper.h" alt="" coords="1928,206,2125,233"/>
+<area shape="rect" id="node7" href="$d5/d49/SampaHeader_8h.html" title="MCHRawCommon/SampaHeader.h" alt="" coords="50,288,297,315"/>
+<area shape="rect" id="node10" href="$dc/d3a/RDHManip_8h.html" title="MCHRawCommon/RDHManip.h" alt="" coords="773,288,995,315"/>
+<area shape="rect" id="node17" href="$dd/d58/SampaChannelHandler_8h.html" title="MCHRawDecoder/SampaChannel\lHandler.h" alt="" coords="1013,199,1249,240"/>
+<area shape="rect" id="node22" href="$d5/d65/RawDataHeaderHandler_8h.html" title="MCHRawDecoder/RawDataHeader\lHandler.h" alt="" coords="745,199,989,240"/>
+<area shape="rect" id="node18" href="$d0/d5b/SampaCluster_8h.html" title="MCHRawCommon/SampaCluster.h" alt="" coords="453,288,699,315"/>
+<area shape="rect" id="node19" href="$d4/d09/DsElecId_8h.html" title="MCHRawElecMap/DsElecId.h" alt="" coords="1849,288,2055,315"/>
+<area shape="rect" id="node26" href="$d5/dcd/DsDetId_8h.html" title="MCHRawElecMap/DsDetId.h" alt="" coords="2389,288,2592,315"/>
+<area shape="rect" id="node27" href="$db/deb/CruLinkId_8h.html" title="MCHRawElecMap/CruLinkId.h" alt="" coords="2616,288,2827,315"/>
+</map>

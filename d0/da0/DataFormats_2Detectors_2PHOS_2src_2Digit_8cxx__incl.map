@@ -1,0 +1,11 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/PHOS/src/Digit.cxx" name="/home/travis/build/AliceO2Group/AliceO2/DataFormats/Detectors/PHOS/src/Digit.cxx">
+<area shape="rect" id="node3" href="$d3/d98/DataFormats_2Detectors_2PHOS_2include_2DataFormatsPHOS_2Digit_8h.html" title="DataFormatsPHOS/Digit.h" alt="" coords="663,124,853,151"/>
+<area shape="rect" id="node8" href="$db/dad/Detectors_2PHOS_2base_2include_2PHOSBase_2Hit_8h.html" title="PHOSBase/Hit.h" alt="" coords="902,124,1027,151"/>
+<area shape="rect" id="node5" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="620,206,869,233"/>
+<area shape="rect" id="node6" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="312,288,479,315"/>
+<area shape="rect" id="node9" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="893,199,1063,240"/>
+<area shape="rect" id="node21" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="1794,206,2007,233"/>
+<area shape="rect" id="node10" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="888,288,1068,315"/>
+<area shape="rect" id="node18" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="1593,370,1773,397"/>
+<area shape="rect" id="node22" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="1795,288,2006,315"/>
+</map>

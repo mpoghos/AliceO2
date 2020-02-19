@@ -1,0 +1,8 @@
+digraph "GPUCA_NAMESPACE::gpu::GPUTPCGMSliceTrack"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{GPUCA_NAMESPACE::gpu\l::GPUTPCGMSliceTrack\n||+ Alpha()\l+ Slice()\l+ CSide()\l+ NClusters()\l+ PrevNeighbour()\l+ NextNeighbour()\l+ Neighbour()\l+ PrevSegmentNeighbour()\l+ NextSegmentNeighbour()\l+ SegmentNeighbour()\l+ OrigTrack()\l+ X()\l+ Y()\l+ Z()\l+ SinPhi()\l+ CosPhi()\l+ SecPhi()\l+ DzDs()\l+ QPt()\l+ ZOffset()\l+ Leg()\l+ LocalTrackId()\l+ SetLocalTrackId()\l+ GlobalTrackId()\l+ SetGlobalTrackId()\l+ MaxClusterZ()\l+ MinClusterZ()\l+ GPUd()\l+ GPUd()\l+ Set()\l+ SetGlobalSectorTrackCov()\l+ SetNClusters()\l+ SetPrevNeighbour()\l+ SetNextNeighbour()\l+ SetNeighbor()\l+ SetPrevSegmentNeighbour()\l+ SetNextSegmentNeighbour()\l+ SetLeg()\l+ CopyParamFrom()\l+ FilterErrors()\l+ TransportToX()\l+ TransportToXAlpha()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+}

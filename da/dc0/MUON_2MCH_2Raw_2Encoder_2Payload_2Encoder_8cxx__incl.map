@@ -1,0 +1,21 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Raw/Encoder/Payload/Encoder.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Raw/Encoder/Payload/Encoder.cxx">
+<area shape="rect" id="node2" href="$df/d23/BareElinkEncoder_8h.html" title="BareElinkEncoder.h" alt="" coords="827,199,974,225"/>
+<area shape="rect" id="node20" href="$d8/d2e/BareElinkEncoderMerger_8h.html" title="BareElinkEncoderMerger.h" alt="" coords="2238,199,2430,225"/>
+<area shape="rect" id="node22" href="$df/da6/EncoderImpl_8h.html" title="EncoderImpl.h" alt="" coords="2691,124,2806,151"/>
+<area shape="rect" id="node32" href="$d6/d32/MUON_2MCH_2Raw_2Encoder_2include_2MCHRawEncoder_2Encoder_8h.html" title="MCHRawEncoder/Encoder.h" alt="" coords="3240,199,3439,225"/>
+<area shape="rect" id="node40" href="$d8/d97/UserLogicElinkEncoder_8h.html" title="UserLogicElinkEncoder.h" alt="" coords="1042,199,1223,225"/>
+<area shape="rect" id="node41" href="$d8/dc5/UserLogicElinkEncoderMerger_8h.html" title="UserLogicElinkEncoderMerger.h" alt="" coords="1106,124,1333,151"/>
+<area shape="rect" id="node3" href="$df/d0f/ElinkEncoder_8h.html" title="ElinkEncoder.h" alt="" coords="2025,273,2142,300"/>
+<area shape="rect" id="node7" href="$dc/d46/Assertions_8h.html" title="Assertions.h" alt="" coords="133,273,236,300"/>
+<area shape="rect" id="node9" href="$d8/d8a/BitSet_8h.html" title="BitSet.h" alt="" coords="739,273,812,300"/>
+<area shape="rect" id="node14" href="$d0/d64/DataFormats_8h.html" title="MCHRawCommon/DataFormats.h" alt="" coords="1057,273,1296,300"/>
+<area shape="rect" id="node15" href="$d0/d5b/SampaCluster_8h.html" title="MCHRawCommon/SampaCluster.h" alt="" coords="1321,273,1566,300"/>
+<area shape="rect" id="node16" href="$d5/d49/SampaHeader_8h.html" title="MCHRawCommon/SampaHeader.h" alt="" coords="468,273,715,300"/>
+<area shape="rect" id="node17" href="$dd/d02/NofBits_8h.html" title="NofBits.h" alt="" coords="261,273,343,300"/>
+<area shape="rect" id="node21" href="$da/d93/ElinkEncoderMerger_8h.html" title="ElinkEncoderMerger.h" alt="" coords="2329,273,2491,300"/>
+<area shape="rect" id="node23" href="$d4/d54/GBTEncoder_8h.html" title="GBTEncoder.h" alt="" coords="2027,199,2139,225"/>
+<area shape="rect" id="node27" href="$d7/dee/MakeArray_8h.html" title="MakeArray.h" alt="" coords="2959,273,3061,300"/>
+<area shape="rect" id="node30" href="$d0/de5/DataBlock_8h.html" title="MCHRawEncoder/DataBlock.h" alt="" coords="2668,273,2883,300"/>
+<area shape="rect" id="node29" href="$d7/d42/MoveBuffer_8h.html" title="MoveBuffer.h" alt="" coords="1742,273,1849,300"/>
+<area shape="rect" id="node35" href="$d4/d09/DsElecId_8h.html" title="MCHRawElecMap/DsElecId.h" alt="" coords="3407,273,3613,300"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="o2::eventgen::Trigger" name="o2::eventgen::Trigger">
+<area shape="rect" id="node3" href="$dd/d82/classo2_1_1eventgen_1_1TriggerParticle.html" title="{o2::eventgen::TriggerParticle\n|# mPDG\l# mPtMin\l# mPtMax\l# mEtaMin\l# mEtaMax\l# mPhiMin\l# mPhiMax\l# mYMin\l# mYMax\l|+ TriggerParticle()\l+ ~TriggerParticle()\l+ fired()\l+ setPDG()\l+ setPtRange()\l+ setEtaRange()\l+ setPhiRange()\l+ setYRange()\l# TriggerParticle()\l# operator=()\l# ClassDefOverride()\l}" alt="" coords="5,329,212,671"/>
+</map>
